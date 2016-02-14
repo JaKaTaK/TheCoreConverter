@@ -1,0 +1,732 @@
+============================
+Start wrong inherit
+----------------------------
+[ERROR]: ArbiterMPRecall/ArbiterMP != MothershipCoreMassRecall/MothershipCore
+	P: D	4
+	T: 4	3
+	R: S,2	S,2
+	Z: Q	S
+	D: R	R (default)
+[ERROR]: ArchonHallucination/Nexus != ArchonHallucination/Sentry
+	P: B	D
+	T: Z	3
+	R: F	F
+	Z: Q	Q
+	D:  	N (default)
+[ERROR]: ArchonHallucination/Voranor != ArchonHallucination/Sentry
+	P: B	D
+	T: Z	3
+	R: F	F
+	Z: Q	Q
+	D:  	N (default)
+[ERROR]: Baneling/HotSRaptor != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: Baneling/HotSSwarmling != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: Baneling/Zergling2 != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D:  	E (default)
+[ERROR]: BonesHeal/Stetmann != Heal/Medivac
+	P: D	D
+	T: 6	6
+	R: A	A
+	Z: Y	H
+	D: E	E (default)
+[ERROR]: BroodLord/MutaliskBroodlord != BroodLord/Corruptor
+	P: 4	D
+	T: R	R
+	R: S	S
+	Z: S	S
+	D: B	B (default)
+[ERROR]: BuildAutoTurret/Raven != AutoTurret/Raven
+	P: 4	4
+	T: D,Z	D,T
+	R: F,6	F,6
+	Z: S	S
+	D:  	T (default)
+[ERROR]: BuildCreepTumor/QueenCoop != BuildCreepTumor/Queen
+	P:  	4
+	T:  	D
+	R: A	A
+	Z:  	S
+	D: C	C (default)
+[ERROR]: BuildScienceVessel/Starport != Raven/Starport
+	P: V	V
+	T: F	5
+	R: Q	Q
+	Z: H	H
+	D: R	R (default)
+[ERROR]: BurrowHydraliskImpalerUp != BurrowUp
+	P: 4	4
+	T: 3	3
+	R: S	S
+	Z: G,N	G
+	D:  	R (default)
+[ERROR]: BurrowHydraliskLurkerUp != BurrowUp
+	P: 4	4
+	T: 3	3
+	R: S	S
+	Z: G,N	G
+	D:  	R (default)
+[ERROR]: CancelCocoon != Cancel
+	P: Z	Z
+	T: T	Z
+	R: Z	Z
+	Z: Z	Z
+	D:  	Escape (default)
+[ERROR]: CancelMutateMorph != Cancel
+	P: Z	Z
+	T: T	Z
+	R: Z	Z
+	Z: Z	Z
+	D:  	Escape (default)
+[ERROR]: CancelUpgradeMorph != Cancel
+	P: Z	Z
+	T: T	Z
+	R: Z	Z
+	Z: Z	Z
+	D:  	Escape (default)
+[ERROR]: Charge/Khraxus != Charge/Zealot
+	P: E	E
+	T: 3,R	R
+	R: R	R
+	Z: N,G	G
+	D:  	C (default)
+[ERROR]: Charge/Orthos != Charge/Zealot
+	P: E	E
+	T: 3,R	R
+	R: R	R
+	Z: N,G	G
+	D:  	C (default)
+[ERROR]: Charge/ShadowOfTheVoidZealot != Charge/Zealot
+	P: E	E
+	T:  	R
+	R: R	R
+	Z:  	G
+	D: C	C (default)
+[ERROR]: Charge/Voranor != Charge/Zealot
+	P: E	E
+	T: 3,R	R
+	R: R	R
+	Z: N,G	G
+	D:  	C (default)
+[ERROR]: Charge/ZealotDark != Charge/Zealot
+	P: E	E
+	T: R,3	R
+	R: R	R
+	Z: N,G	G
+	D:  	C (default)
+[ERROR]: ColossusHallucination/Nexus != ColossusHallucination/Sentry
+	P: D	H
+	T: 4	F
+	R: 2	2
+	Z: 2	A
+	D:  	C (default)
+[ERROR]: ColossusHallucination/Voranor != ColossusHallucination/Sentry
+	P: D	H
+	T: 4	F
+	R: 2	2
+	Z: 2	A
+	D:  	C (default)
+[ERROR]: Consume/GiantYeti != ParasiticInvasion/LarvalQueen
+	P: Z	Z
+	T: Z	Z
+	R: Z	S
+	Z: C	2
+	D: W	Q (default)
+[ERROR]: Consume/Lyote != ParasiticInvasion/LarvalQueen
+	P: Z	Z
+	T: Z	Z
+	R: Z	S
+	Z: C	2
+	D: W	Q (default)
+[ERROR]: DarkPylonRecall/DarkPylon != MothershipCoreMassRecall/MothershipCore
+	P:  	4
+	T:  	3
+	R: S	S,2
+	Z:  	S
+	D: R	R (default)
+[ERROR]: DarkTemplarShadowDash/DarkTemplarShakuras != Blink/Stalker
+	P:  	E
+	T:  	R
+	R: R	R
+	Z:  	G
+	D: B	B (default)
+[ERROR]: DisableBuildingAttackScourge/Scourge != DisableBuildingAttack/Baneling
+	P:  	4
+	T:  	Z
+	R:  	S
+	Z:  	2
+	D: G	G (default)
+[ERROR]: DisablingCloud/Viper != BlindingCloud/Viper
+	P: D,J	D,N
+	T: 4,6	4
+	R: S	S
+	Z: Q,B	Q,B
+	D: B	B (default)
+[ERROR]: DutchPlaceTurret/Swann != AutoTurret/Raven
+	P: 4	4
+	T: D,Z	D,T
+	R: F,6	F,6
+	Z: S	S
+	D: T	T (default)
+[ERROR]: FungalGrowth/Infestor2 != FungalGrowth/Infestor
+	P: E,J	E,J
+	T: R,6	R
+	R: R,Tab	R,Tab
+	Z: G,B	G,H
+	D:  	F (default)
+[ERROR]: GreaterSpireBroodlord/Spire != GreaterSpire/Spire
+	P: B	4
+	T: Z	D
+	R: S	S
+	Z: S	S
+	D: G	G (default)
+[ERROR]: Hallucination/Sentry2 != Hallucination/Sentry
+	P: D	D
+	T: Z	Z,3
+	R: F,A	F,A
+	Z: Q,B	Q,B
+	D:  	C (default)
+[ERROR]: Hallucination2/Voranor != Hallucination/Sentry
+	P: D	D
+	T: Z	Z,3
+	R: F,A	F,A
+	Z: Q,B	Q,B
+	D:  	C (default)
+[ERROR]: Heal/Medivac2 != Heal/Medivac
+	P: D	D
+	T: 6	6
+	R: A	A
+	Z: Y	H
+	D:  	E (default)
+[ERROR]: HeroNukeCalldown/Nova != NukeCalldown/Ghost
+	P: J	J
+	T: 6	6
+	R: A	A
+	Z: B	H
+	D: N	N (default)
+[ERROR]: HeroNukeCalldown/Tosh != NukeCalldown/Ghost
+	P: J	J
+	T: 6	6
+	R: A	A
+	Z: B	H
+	D: N	N (default)
+[ERROR]: HighTemplarHallucination/Nexus != HighTemplarHallucination/Sentry
+	P: V	V
+	T: 5	T
+	R: Q	Q
+	Z: H	H
+	D:  	T (default)
+[ERROR]: HighTemplarHallucination/Voranor != HighTemplarHallucination/Sentry
+	P: V	V
+	T: 5	T
+	R: Q	Q
+	Z: H	H
+	D:  	T (default)
+[ERROR]: HydraliskFrenzy/Hydralisk != Blink/Stalker
+	P: P	E
+	T: P	R
+	R: R	R
+	Z: P	G
+	D: T	B (default)
+[ERROR]: HydraliskFrenzy/HydraliskImpaler != Blink/Stalker
+	P: P	E
+	T: P	R
+	R: R	R
+	Z: P	G
+	D: T	B (default)
+[ERROR]: HydraliskFrenzy/HydraliskLurker != Blink/Stalker
+	P: P	E
+	T: P	R
+	R: R	R
+	Z: P	G
+	D: T	B (default)
+[ERROR]: HyperionVoidCoopHyperjump/HyperionVoidCoop != Hyperjump/Battlecruiser
+	P:  	D
+	T:  	4
+	R: R	R
+	Z:  	2
+	D: Q	T (default)
+[ERROR]: HyperionVoidCoopYamatoCannon/HyperionVoidCoop != YamatoGun
+	P:  	E,4
+	T:  	R,D
+	R: S,F	S,F
+	Z:  	S
+	D: Y	Y (default)
+[ERROR]: HyperjumpHercules/Hercules != Hyperjump/Battlecruiser
+	P:  	D
+	T:  	4
+	R: S	R
+	Z:  	2
+	D: T	T (default)
+[ERROR]: ImmortalHallucination/Nexus != ImmortalHallucination/Sentry
+	P: 4	Y
+	T: F	4
+	R: S	S
+	Z: S	S
+	D:  	I (default)
+[ERROR]: ImpalerBurrowUp != BurrowUp
+	P: 4	4
+	T: 3	3
+	R: S	S
+	Z: G,N	G
+	D: R	R (default)
+[ERROR]: ImpalerDen/HydraliskDen != Lair/Hatchery
+	P: B	B
+	T: Z	T
+	R: C	C
+	Z: Y	Y
+	D:  	L (default)
+[ERROR]: Interceptor/Selendis != Interceptor/Carrier
+	P: E	4
+	T: 3,R	4
+	R: R	R
+	Z: N,G	S
+	D: I	I (default)
+[ERROR]: JackhammerConcussionGrenade/HammerSecurity != JackhammerConcussionGrenade/Marauder
+	P:  	P
+	T:  	P
+	R:  	P
+	Z:  	P
+	D: C	C (default)
+[ERROR]: MassRecall/Artanis != MothershipCoreMassRecall/MothershipCore
+	P: 4	4
+	T: D	3
+	R: S,2	S,2
+	Z: S	S
+	D: R	R (default)
+[ERROR]: MassRecall/Mothership != MothershipCoreMassRecall/MothershipCore
+	P: 4	4
+	T: D	3
+	R: S,2	S,2
+	Z: S	S
+	D: R	R (default)
+[ERROR]: MedicHeal/Medic != Heal/Medivac
+	P: D	D
+	T: 6	6
+	R: A	A
+	Z: Y	H
+	D: E	E (default)
+[ERROR]: MercMedicHeal/MercMedic != Heal/Medivac
+	P: D	D
+	T: 6	6
+	R: A	A
+	Z: Y	H
+	D: E	E (default)
+[ERROR]: MorphMorphalisk/BroodMother != MorphMorphalisk/Queen
+	P: E,N	E,J
+	T: R,6	R,6
+	R: R,2	R,2
+	Z: 2	2
+	D:  	V (default)
+[ERROR]: MorphMorphalisk/Queen2 != MorphMorphalisk/Queen
+	P: E,N	E,J
+	T: R,6	R,6
+	R: R,2	R,2
+	Z: 2	2
+	D:  	V (default)
+[ERROR]: MorphMorphalisk/QueenCoop != MorphMorphalisk/Queen
+	P:  	E,J
+	T:  	R,6
+	R: R,2	R,2
+	Z:  	2
+	D: V	V (default)
+[ERROR]: MorphToHotSNoxious/Larva != Ultralisk/Larva
+	P: J	6
+	T: 6	X
+	R: C	C
+	Z: Tab	1
+	D: U	U (default)
+[ERROR]: MorphToHotSTorrasque/Larva != Ultralisk/Larva
+	P: J	6
+	T: 6	X
+	R: C	C
+	Z: Tab	1
+	D: U	U (default)
+[ERROR]: MorphToSwarmHostSplitA/Larva != SwarmHostMP/Larva
+	P: X	Y
+	T: X	6
+	R: T	T
+	Z: A	A
+	D: A	A (default)
+[ERROR]: MorphToSwarmHostSplitB/Larva != SwarmHostMP/Larva
+	P: X	Y
+	T: X	6
+	R: T	T
+	Z: A	A
+	D: A	A (default)
+[ERROR]: MorphtoHunter/HotSRaptor != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: MorphtoHunter/HotSSwarmling != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: MorphtoSplitterling/HotSRaptor != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: MorphtoSplitterling/HotSSwarmling != Baneling/Zergling
+	P: 4	4
+	T: R	D
+	R: S	S
+	Z: G	G
+	D: E	E (default)
+[ERROR]: Mothership/Nexus != MothershipCore/Nexus
+	P: V	4
+	T: D	D
+	R: F	F
+	Z: S	S
+	D: M	M (default)
+[ERROR]: NanoRepair/ScienceVessel != Heal/Medivac
+	P: D	D
+	T: 6	6
+	R: A	A
+	Z: Y	H
+	D: N	E (default)
+[ERROR]: NeuralParasite/Infestor2 != NeuralParasite/Infestor
+	P: 4	4,B
+	T: Z,3	3,6
+	R: S,A	S,A
+	Z: 2	2
+	D:  	E (default)
+[ERROR]: Observer/RoboticsFacilityWarp != Observer/RoboticsFacility
+	P: G	G
+	T:  	E
+	R: R	R
+	Z: G	G
+	D: B	B (default)
+[ERROR]: OdinNukeCalldown/Odin != NukeCalldown/Ghost
+	P: J	J
+	T: 6	6
+	R: A	A
+	Z: B	H
+	D: N	N (default)
+[ERROR]: ProbeHallucination/Nexus != ProbeHallucination/Sentry
+	P: N	N
+	T: X	J
+	R: J	J
+	Z: Tab	J
+	D:  	E (default)
+[ERROR]: ProbeHallucination/Voranor != ProbeHallucination/Sentry
+	P: N	N
+	T: X	J
+	R: J	J
+	Z: Tab	J
+	D:  	E (default)
+[ERROR]: ProtossBuild/Harvester != ProtossBuild/Probe
+	P: E,V	E,V
+	T: R,D	R,D
+	R: R,S	R,S
+	Z: G,S	S
+	D:  	B (default)
+[ERROR]: PsionicLift/KerriganVoid != PsionicLift/K5Kerrigan
+	P: 4	4
+	T: D	D
+	R: R	R
+	Z:  	S
+	D: T	T,W (default)
+[ERROR]: PsionicLift/KerriganVoidBurrowed != PsionicLift/K5KerriganBurrowed
+	P: J	J
+	T: J	J
+	R: J	J
+	Z:  	J
+	D: T	T,W (default)
+[ERROR]: QueenBurstHeal/Queen != Transfusion/Queen
+	P: V	V,B
+	T: 3,Z	3,Z
+	R: S,C	S,C
+	Z: G,B	G,H
+	D: T	T (default)
+[ERROR]: QueenCoop != Queen
+	P:  	V
+	T:  	F
+	R:  	Q
+	Z:  	B
+	D: Q	Q (default)
+[ERROR]: ReaverScarabs/Reaver != Interceptor/Carrier
+	P: E	4
+	T: R	4
+	R: R	R
+	Z: G	S
+	D: C	I (default)
+[ERROR]: ResearchBansheeCloak/StarportTechReactor != ResearchBansheeCloak/StarportTechLab
+	P: D	D
+	T: 4	3
+	R: F	F
+	Z: Q	Q
+	D: C	C (default)
+[ERROR]: ResearchGoliath/ScienceFacility != HellionTank/Factory
+	P: V	B
+	T: 5	C
+	R: 5	5
+	Z: S	A
+	D: G	R (default)
+[ERROR]: ResearchShapedBlast/FactoryTechLab != SiegeTank/Factory
+	P: H	V
+	T: F	4
+	R: S	S
+	Z: H	S
+	D: B	S (default)
+[ERROR]: ResearchSiegeTank/ScienceFacility != SiegeTank/Factory
+	P: H	V
+	T: F	4
+	R: S	S
+	Z: H	S
+	D: T	S (default)
+[ERROR]: SJHyperionYamato/SJHyperion != YamatoGun
+	P: E,4	E,4
+	T: R,D	R,D
+	R: S,F	S,F
+	Z: G,S	S
+	D: E	Y (default)
+[ERROR]: SOAMothershipBlink/SOAMothershipv4 != Blink/Stalker
+	P: V	E
+	T: 3	R
+	R: R	R
+	Z: 2	G
+	D: B	B (default)
+[ERROR]: Salvage/KelMorianGrenadeTurret != Salvage/Bunker
+	P:  	H
+	T:  	5
+	R: S	S
+	Z:  	S
+	D: V	V (default)
+[ERROR]: Salvage/KelMorianMissileTurret != Salvage/Bunker
+	P:  	H
+	T:  	5
+	R: S	S
+	Z:  	S
+	D: V	V (default)
+[ERROR]: Salvage/MissileTurret != Salvage/Bunker
+	P:  	H
+	T:  	5
+	R: S	S
+	Z:  	S
+	D: V	V (default)
+[ERROR]: Salvage/PerditionTurret != Salvage/Bunker
+	P:  	H
+	T:  	5
+	R: S	S
+	Z:  	S
+	D: V	V (default)
+[ERROR]: Scourge/Larva != SwarmHostMP/Larva
+	P: X	Y
+	T: X	6
+	R: T	T
+	Z: A	A
+	D: S	A (default)
+[ERROR]: ShadowGuardBlink/VorazunShadowGuard != Blink/Stalker
+	P:  	E
+	T:  	R
+	R: R	R
+	Z:  	G
+	D: B	B (default)
+[ERROR]: SpectreHoldFire/Spectre != GhostHoldFire/Ghost
+	P: N	N
+	T: X	X
+	R: Tab	Tab
+	Z: Tab	B
+	D: F	F (default)
+[ERROR]: SpectreNukeArm/GhostAcademy != NukeArm/GhostAcademy
+	P: E	E
+	T: R	R
+	R: A	A
+	Z: G	H
+	D: N	N (default)
+[ERROR]: SpectreNukeCalldown/Spectre != NukeCalldown/Ghost
+	P: J	J
+	T: 6	6
+	R: A	A
+	Z: B	H
+	D: N	N (default)
+[ERROR]: StalkerHallucination/Nexus != StalkerHallucination/Sentry
+	P: X	Tab
+	T: C	X
+	R: C	C
+	Z: B	1
+	D:  	S (default)
+[ERROR]: StopGenerateCreep/Overlord != StopGenerateCreep
+	P: V	X
+	T: Z	6
+	R: C	C
+	Z: 2	H
+	D: C	C (default)
+[ERROR]: Summon2DragoonHallucinations/Sentry != StalkerHallucination/Sentry
+	P: X	Tab
+	T: C	X
+	R: C	C
+	Z: B	1
+	D:  	S (default)
+[ERROR]: Summon2DragoonHallucinations/Voranor != StalkerHallucination/Sentry
+	P: X	Tab
+	T: C	X
+	R: C	C
+	Z: B	1
+	D:  	S (default)
+[ERROR]: TerranShipWeaponsUltraCapacitorsLevel1/Armory != TerranShipWeaponsLevel1/Armory
+	P: G	4
+	T: E	4
+	R: S	S
+	Z: W	S
+	D: S	S (default)
+[ERROR]: TerranShipWeaponsUltraCapacitorsLevel2/Armory != TerranShipWeaponsLevel1/Armory
+	P: G	4
+	T: E	4
+	R: S	S
+	Z: W	S
+	D: S	S (default)
+[ERROR]: TerranShipWeaponsUltraCapacitorsLevel3/Armory != TerranShipWeaponsLevel1/Armory
+	P: G	4
+	T: E	4
+	R: S	S
+	Z: W	S
+	D: S	S (default)
+[ERROR]: TerranVehicleWeaponsUltraCapacitorsLevel1/Armory != TerranVehicleWeaponsLevel1/Armory
+	P: V	G
+	T: D	E
+	R: W	W
+	Z: S	W
+	D: E	E (default)
+[ERROR]: TerranVehicleWeaponsUltraCapacitorsLevel2/Armory != TerranVehicleWeaponsLevel1/Armory
+	P: V	G
+	T: D	E
+	R: W	W
+	Z: S	W
+	D: E	E (default)
+[ERROR]: TerranVehicleWeaponsUltraCapacitorsLevel3/Armory != TerranVehicleWeaponsLevel1/Armory
+	P: V	G
+	T: D	E
+	R: W	W
+	Z: S	W
+	D: E	E (default)
+[ERROR]: Transfusion/BroodMother != Transfusion/Queen
+	P: V	V,B
+	T: 3,Z	3,Z
+	R: S,C	S,C
+	Z: G,B	G,H
+	D:  	T (default)
+[ERROR]: Transfusion/Queen2 != Transfusion/Queen
+	P: V	V,B
+	T: 3,Z	3,Z
+	R: S,C	S,C
+	Z: G,B	G,H
+	D:  	T (default)
+[ERROR]: Transfusion/QueenCoop != Transfusion/Queen
+	P:  	V,B
+	T:  	3,Z
+	R: S,C	S,C
+	Z:  	G,H
+	D: T	T (default)
+[ERROR]: UpgradeToRoboticsFacilityWarp/RoboticsFacility != UpgradeToWarpGate/Gateway
+	P: B	B
+	T: T	T
+	R: C	S
+	Z: Y	V
+	D: G	G (default)
+[ERROR]: UpgradeToStargateWarp/Stargate != UpgradeToWarpGate/Gateway
+	P: B	B
+	T: T	T
+	R: C	S
+	Z: Y	V
+	D: G	G (default)
+[ERROR]: Viper/MutaliskViper != BroodLord/Corruptor
+	P: 4	D
+	T: R	R
+	R: S	S
+	Z: S	S
+	D: E	B (default)
+[ERROR]: ViperConsumption/Viper != ViperConsume/Viper
+	P: 4	V
+	T: D,Z	3
+	R: A	A
+	Z: S	H
+	D: C	C (default)
+[ERROR]: VoidRayHallucination/Nexus != VoidRayHallucination/Sentry
+	P: H	B
+	T: 3	C
+	R: T	T
+	Z: V	B
+	D:  	V (default)
+[ERROR]: VoidRayHallucination/Voranor != VoidRayHallucination/Sentry
+	P: H	B
+	T: 3	C
+	R: T	T
+	Z: V	B
+	D:  	V (default)
+[ERROR]: VoidZealotShadowChargeStun/ZealotShakuras != Charge/Zealot
+	P: D	E
+	T: 4	R
+	R: S	R
+	Z: Q	G
+	D: Z	C (default)
+[ERROR]: Vortex/Artanis != TemporalField/MothershipCore
+	P: E	E
+	T: R	R
+	R: F	R
+	Z: G	G
+	D: V	T,C (default)
+[ERROR]: Vortex/Mothership != TemporalField/MothershipCore
+	P: E	E
+	T: R	R
+	R: F	R
+	Z: G	G
+	D: V	T,C (default)
+[ERROR]: WarpPrismHallucination/Nexus != WarpPrismHallucination/Sentry
+	P: 3	4
+	T: D	5
+	R: A	A
+	Z: A	V
+	D:  	R (default)
+[ERROR]: WarpPrismHallucination/Voranor != WarpPrismHallucination/Sentry
+	P: 3	4
+	T: D	5
+	R: A	A
+	Z: A	V
+	D:  	R (default)
+[ERROR]: ZagaraVoidCoopNydusWorm/NydusNetwork != SummonNydusWorm/NydusNetwork
+	P:  	G
+	T:  	E
+	R: W	W
+	Z:  	W
+	D: R	N (default)
+[ERROR]: ZealotHallucination/Nexus != ZealotHallucination/Sentry
+	P: J	J
+	T: 6	7
+	R: Tab	Tab
+	Z: Y	Tab
+	D:  	Z (default)
+[ERROR]: ZealotHallucination/Voranor != ZealotHallucination/Sentry
+	P: J	J
+	T: 6	7
+	R: Tab	Tab
+	Z: Y	Tab
+	D:  	Z (default)
+[ERROR]: ZeratulStun/ZeratulVoid != ZeratulStun/Zeratul
+	P: 4	4
+	T:  	D
+	R: S	S
+	Z: S	S
+	D: V	V (default)
+----------------------------
+Finished (wrong inherit) - ERRORs: 121 
+============================

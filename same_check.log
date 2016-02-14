@@ -1,0 +1,355 @@
+============================
+Start same check
+----------------------------
+[ERROR]: Mismatched values in race: P
+	ProtossAirWeaponsLevel1/CyberneticsCore = G
+	TerranShipWeaponsLevel1/Armory = 4
+	zergflyerattack1 = G
+[ERROR]: Mismatched values in race: P
+	TerranShipWeaponsLevel1/Armory = 4
+	TerranShipWeaponsUltraCapacitorsLevel1/Armory = G
+	TerranShipWeaponsUltraCapacitorsLevel2/Armory = G
+	TerranShipWeaponsUltraCapacitorsLevel3/Armory = G
+[ERROR]: Mismatched values in race: P
+	Mothership/Nexus = V
+	MothershipCore/Nexus = 4
+[ERROR]: Mismatched values in race: P
+	ResearchShapedBlast/FactoryTechLab = H
+	ResearchShapedBlast/FactoryTechReactor = E
+	ResearchSiegeTech/FactoryTechLab = E
+	ResearchSiegeTech/FactoryTechReactor = E
+[ERROR]: Mismatched values in race: P
+	NPSwarm/Infestor = 4,B
+	NeuralParasite/Infestor = 4,B
+	NeuralParasite/Infestor2 = 4
+[ERROR]: Mismatched values in race: P
+	HyperionVoidCoopYamatoCannon/HyperionVoidCoop = Y
+	SJHyperionYamato/SJHyperion = E,4
+	YamatoGun = E,4
+[ERROR]: Mismatched values in race: P
+	MorphToSwarmHostSplitA/Larva = X
+	MorphToSwarmHostSplitB/Larva = X
+	SwarmHostMP/Larva = Y
+[ERROR]: Mismatched values in race: P
+	MorphToHotSNoxious/Larva = J
+	MorphToHotSTorrasque/Larva = J
+	Ultralisk/Larva = 6
+[ERROR]: Mismatched values in race: P
+	Aberration/Larva = N
+	Viper/Larva = J
+[ERROR]: Mismatched values in race: P
+	BroodLord/Corruptor = D
+	BroodLord/MutaliskBroodlord = 4
+	Viper/MutaliskViper = 4
+[ERROR]: Mismatched values in race: P
+	BlindingCloud/Viper = D,N
+	DisablingCloud/Viper = D,J
+[ERROR]: Mismatched values in race: P
+	ViperConsume/Viper = V
+	ViperConsumption/Viper = 4
+[ERROR]: Mismatched values in race: P
+	QueenBurstHeal/Queen = V
+	Transfusion/Queen = V,B
+	Transfusion/Queen2 = V
+[ERROR]: Mismatched values in race: P
+	GreaterSpire/Spire = 4
+	GreaterSpireBroodlord/Spire = B
+[ERROR]: Mismatched values in race: P
+	250mmStrikeCannons/Thor = E
+	250mmStrikeCannons/ThorWreckageSwann = 
+[ERROR]: Mismatched values in race: P
+	Salvage/Bunker = H
+	Salvage/KelMorianGrenadeTurret = V
+	Salvage/KelMorianMissileTurret = V
+	Salvage/MissileTurret = V
+	Salvage/PerditionTurret = V
+[ERROR]: Mismatched values in race: P
+	HyperionVoidCoopHyperjump/HyperionVoidCoop = Q
+	Hyperjump/Battlecruiser = D
+	HyperjumpHercules/Hercules = 
+[ERROR]: Mismatched values in race: P
+	SummonNydusWorm/NydusNetwork = G
+	ZagaraVoidCoopNydusWorm/NydusNetwork = 
+[ERROR]: Mismatched values in race: P
+	Queen = V
+	QueenCoop = 
+[ERROR]: Mismatched values in race: P
+	BuildCreepTumor/Queen = 4
+	BuildCreepTumor/QueenCoop = C
+[ERROR]: Mismatched values in race: P
+	MorphMorphalisk/Queen = E,J
+	MorphMorphalisk/QueenCoop = V
+[ERROR]: Mismatched values in race: P
+	Transfusion/Queen = V,B
+	Transfusion/QueenCoop = 
+[ERROR]: Mismatched values in race: T
+	ProtossAirWeaponsLevel1/CyberneticsCore = E
+	TerranShipWeaponsLevel1/Armory = 4
+	zergflyerattack1 = E
+[ERROR]: Mismatched values in race: T
+	TerranShipWeaponsLevel1/Armory = 4
+	TerranShipWeaponsUltraCapacitorsLevel1/Armory = E
+	TerranShipWeaponsUltraCapacitorsLevel2/Armory = E
+	TerranShipWeaponsUltraCapacitorsLevel3/Armory = E
+[ERROR]: Mismatched values in race: T
+	BuildScienceVessel/Starport = F
+	Raven/Starport = 5
+[ERROR]: Mismatched values in race: T
+	Hive/Lair = T
+	ImpalerDen/HydraliskDen = Z
+	Lair/Hatchery = T
+	LurkerDen/HydraliskDen = Z
+[ERROR]: Mismatched values in race: T
+	MassRecall/Artanis = D
+	MassRecall/Mothership = D
+	MothershipCoreMassRecall/MothershipCore = 3
+	MothershipMassRecall/Mothership = 3
+[ERROR]: Mismatched values in race: T
+	AutoTurret/Raven = D,T
+	BuildAutoTurret/Raven = D,Z
+[ERROR]: Mismatched values in race: T
+	ResearchShapedBlast/FactoryTechLab = F
+	ResearchShapedBlast/FactoryTechReactor = R
+	ResearchSiegeTech/FactoryTechLab = R
+	ResearchSiegeTech/FactoryTechReactor = R
+[ERROR]: Mismatched values in race: T
+	ResearchBansheeCloak/StarportTechLab = 3
+	ResearchBansheeCloak/StarportTechReactor = 4
+[ERROR]: Mismatched values in race: T
+	Baneling/HotSRaptor = R
+	Baneling/HotSSwarmling = R
+	Baneling/Zergling = D
+	Baneling/Zergling2 = R
+	MorphtoHunter/HotSRaptor = R
+	MorphtoHunter/HotSSwarmling = R
+	MorphtoSplitterling/HotSRaptor = R
+	MorphtoSplitterling/HotSSwarmling = R
+[ERROR]: Mismatched values in race: T
+	FungalGrowth/Infestor = R
+	FungalGrowth/Infestor2 = R,6
+[ERROR]: Mismatched values in race: T
+	Hallucination/Sentry = Z,3
+	Hallucination/Sentry2 = Z
+[ERROR]: Mismatched values in race: T
+	NPSwarm/Infestor = 3,6
+	NeuralParasite/Infestor = 3,6
+	NeuralParasite/Infestor2 = Z,3
+[ERROR]: Mismatched values in race: T
+	Baneling/HotSRaptor = R
+	Baneling/HotSSwarmling = R
+	Baneling/Zergling = D
+	Baneling/Zergling2 = R
+[ERROR]: Mismatched values in race: T
+	HyperionVoidCoopYamatoCannon/HyperionVoidCoop = Y
+	SJHyperionYamato/SJHyperion = R,D
+	YamatoGun = R,D
+[ERROR]: Mismatched values in race: T
+	MorphToSwarmHostSplitA/Larva = X
+	MorphToSwarmHostSplitB/Larva = X
+	SwarmHostMP/Larva = 6
+[ERROR]: Mismatched values in race: T
+	MorphToHotSNoxious/Larva = 6
+	MorphToHotSTorrasque/Larva = 6
+	Ultralisk/Larva = X
+[ERROR]: Mismatched values in race: T
+	Aberration/Larva = Z
+	Viper/Larva = T
+[ERROR]: Mismatched values in race: T
+	BlindingCloud/Viper = 4
+	DisablingCloud/Viper = 4,6
+[ERROR]: Mismatched values in race: T
+	ViperConsume/Viper = 3
+	ViperConsumption/Viper = D,Z
+[ERROR]: Mismatched values in race: T
+	GreaterSpire/Spire = D
+	GreaterSpireBroodlord/Spire = Z
+[ERROR]: Mismatched values in race: T
+	250mmStrikeCannons/Thor = R
+	250mmStrikeCannons/ThorWreckageSwann = C
+[ERROR]: Mismatched values in race: T
+	Salvage/Bunker = 5
+	Salvage/KelMorianGrenadeTurret = V
+	Salvage/KelMorianMissileTurret = V
+	Salvage/MissileTurret = V
+	Salvage/PerditionTurret = V
+[ERROR]: Mismatched values in race: T
+	HyperionVoidCoopHyperjump/HyperionVoidCoop = Q
+	Hyperjump/Battlecruiser = 4
+	HyperjumpHercules/Hercules = T
+[ERROR]: Mismatched values in race: T
+	Charge/ShadowOfTheVoidZealot = C
+	Charge/Zealot = R
+	Charge/ZealotAiur = R
+	Charge/ZealotPurifier = R
+	VoidZealotShadowCharge/ZealotShakuras = R
+[ERROR]: Mismatched values in race: T
+	SummonNydusWorm/NydusNetwork = E
+	ZagaraVoidCoopNydusWorm/NydusNetwork = R
+[ERROR]: Mismatched values in race: T
+	Queen = F
+	QueenCoop = Q
+[ERROR]: Mismatched values in race: T
+	BuildCreepTumor/Queen = D
+	BuildCreepTumor/QueenCoop = C
+[ERROR]: Mismatched values in race: T
+	MorphMorphalisk/Queen = R,6
+	MorphMorphalisk/QueenCoop = V
+[ERROR]: Mismatched values in race: T
+	Transfusion/Queen = 3,Z
+	Transfusion/QueenCoop = T
+[ERROR]: Mismatched values in race: T
+	Observer/RoboticsFacility = E
+	Observer/RoboticsFacilityWarp = B
+[ERROR]: Mismatched values in race: R
+	Spire/Drone = S
+	Stargate/Probe = R
+	Starport/SCV = R
+[ERROR]: Mismatched values in race: R
+	FleetBeacon/Probe = 5
+	FusionCore/SCV = T
+[ERROR]: Mismatched values in race: R
+	ProtossAirWeaponsLevel1/CyberneticsCore = W
+	TerranShipWeaponsLevel1/Armory = S
+	zergflyerattack1 = W
+[ERROR]: Mismatched values in race: R
+	ProtossAirArmorLevel1/CyberneticsCore = R
+	TerranShipPlatingLevel1/Armory = F
+	zergflyerarmor1 = R
+[ERROR]: Mismatched values in race: R
+	NovaSnipe/Nova = 2,6
+	Obliterate/Spectre = S
+	Snipe/Ghost = 2,6
+[ERROR]: Mismatched values in race: R
+	Hive/Lair = C
+	ImpalerDen/HydraliskDen = C
+	Lair/Hatchery = C
+	LurkerDen/HydraliskDen = S
+[ERROR]: Mismatched values in race: R
+	Aberration/Larva = J
+	Viper/Larva = 6
+[ERROR]: Mismatched values in race: R
+	VoidSentryShieldRepair/Sentry = A
+	VoidSentryShieldRepairDouble/SentryAiur = 2
+[ERROR]: Mismatched values in race: R
+	UpgradeToRoboticsFacilityWarp/RoboticsFacility = C
+	UpgradeToStargateWarp/Stargate = C
+	UpgradeToWarpGate/Gateway = S
+[ERROR]: Mismatched values in race: R
+	TemporalField/Mothership = R
+	TemporalField/MothershipCore = R
+	VoidSentryBlackHole/SOAMothershipv4 = F
+	Vortex/Artanis = F
+	Vortex/Mothership = F
+[ERROR]: Mismatched values in race: R
+	HyperionVoidCoopHyperjump/HyperionVoidCoop = R
+	Hyperjump/Battlecruiser = R
+	HyperjumpHercules/Hercules = S
+[ERROR]: Mismatched values in race: R
+	ResearchIncineratorGauntlets/BarracksTechLab = 2
+	ResearchIncineratorGauntlets/BarracksTechReactor = I
+[ERROR]: Mismatched values in race: R
+	ResearchJuggernautPlating/BarracksTechLab = Q
+	ResearchJuggernautPlating/BarracksTechReactor = J
+[ERROR]: Mismatched values in race: R
+	ResearchStabilizerMedpacks/BarracksTechLab = A
+	ResearchStabilizerMedpacks/BarracksTechReactor = S
+[ERROR]: Mismatched values in race: Z
+	ProtossAirWeaponsLevel1/CyberneticsCore = W
+	TerranShipWeaponsLevel1/Armory = S
+	zergflyerattack1 = W
+[ERROR]: Mismatched values in race: Z
+	TerranShipWeaponsLevel1/Armory = S
+	TerranShipWeaponsUltraCapacitorsLevel1/Armory = W
+	TerranShipWeaponsUltraCapacitorsLevel2/Armory = W
+	TerranShipWeaponsUltraCapacitorsLevel3/Armory = W
+[ERROR]: Mismatched values in race: Z
+	BonesHeal/Stetmann = Y
+	Heal/Medivac = H
+	MedicHeal/Medic = Y
+	MercMedicHeal/MercMedic = Y
+	NanoRepair/ScienceVessel = Y
+[ERROR]: Mismatched values in race: Z
+	GhostHoldFire/Ghost = B
+	SpectreHoldFire/Spectre = Tab
+[ERROR]: Mismatched values in race: Z
+	NukeArm/GhostAcademy = H
+	SpectreNukeArm/GhostAcademy = G
+[ERROR]: Mismatched values in race: Z
+	HeroNukeCalldown/Nova = B
+	HeroNukeCalldown/Tosh = B
+	NukeCalldown/Ghost = H
+	OdinNukeCalldown/Odin = B
+	SpectreNukeCalldown/Spectre = B
+[ERROR]: Mismatched values in race: Z
+	ResearchShapedBlast/FactoryTechLab = H
+	ResearchShapedBlast/FactoryTechReactor = G
+	ResearchSiegeTech/FactoryTechLab = G
+	ResearchSiegeTech/FactoryTechReactor = G
+[ERROR]: Mismatched values in race: Z
+	FungalGrowth/Infestor = G,H
+	FungalGrowth/Infestor2 = G,B
+[ERROR]: Mismatched values in race: Z
+	Heal/Medivac = H
+	Heal/Medivac2 = Y
+[ERROR]: Mismatched values in race: Z
+	HyperionVoidCoopYamatoCannon/HyperionVoidCoop = Y
+	SJHyperionYamato/SJHyperion = G,S
+	YamatoGun = S
+[ERROR]: Mismatched values in race: Z
+	MorphToHotSNoxious/Larva = Tab
+	MorphToHotSTorrasque/Larva = Tab
+	Ultralisk/Larva = 1
+[ERROR]: Mismatched values in race: Z
+	BurrowHydraliskImpalerUp = G,N
+	BurrowHydraliskLurkerUp = G,N
+	BurrowUp = G
+	ImpalerBurrowUp = G,N
+	LurkerBurrowUp = G
+[ERROR]: Mismatched values in race: Z
+	ViperConsume/Viper = H
+	ViperConsumption/Viper = S
+[ERROR]: Mismatched values in race: Z
+	QueenBurstHeal/Queen = G,B
+	Transfusion/Queen = G,H
+	Transfusion/Queen2 = G,B
+[ERROR]: Mismatched values in race: Z
+	UpgradeToRoboticsFacilityWarp/RoboticsFacility = Y
+	UpgradeToStargateWarp/Stargate = Y
+	UpgradeToWarpGate/Gateway = V
+[ERROR]: Mismatched values in race: Z
+	250mmStrikeCannons/Thor = G
+	250mmStrikeCannons/ThorWreckageSwann = C
+[ERROR]: Mismatched values in race: Z
+	Salvage/Bunker = S
+	Salvage/KelMorianGrenadeTurret = V
+	Salvage/KelMorianMissileTurret = V
+	Salvage/MissileTurret = V
+	Salvage/PerditionTurret = V
+[ERROR]: Mismatched values in race: Z
+	HyperionVoidCoopHyperjump/HyperionVoidCoop = Q
+	Hyperjump/Battlecruiser = 2
+	HyperjumpHercules/Hercules = T
+[ERROR]: Mismatched values in race: Z
+	Charge/ShadowOfTheVoidZealot = C
+	Charge/Zealot = G
+	Charge/ZealotAiur = G
+	Charge/ZealotPurifier = G
+	VoidZealotShadowCharge/ZealotShakuras = G
+[ERROR]: Mismatched values in race: Z
+	SummonNydusWorm/NydusNetwork = W
+	ZagaraVoidCoopNydusWorm/NydusNetwork = R
+[ERROR]: Mismatched values in race: Z
+	Queen = B
+	QueenCoop = Q
+[ERROR]: Mismatched values in race: Z
+	BuildCreepTumor/Queen = S
+	BuildCreepTumor/QueenCoop = C
+[ERROR]: Mismatched values in race: Z
+	MorphMorphalisk/Queen = 2
+	MorphMorphalisk/QueenCoop = V
+[ERROR]: Mismatched values in race: Z
+	Transfusion/Queen = G,H
+	Transfusion/QueenCoop = T
+----------------------------
+Finished (same check) - ERRORs: 90 
+============================
