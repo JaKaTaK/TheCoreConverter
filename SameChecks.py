@@ -102,7 +102,7 @@ SAME_CHECKS = [['Pylon/Probe', 'SupplyDepot/SCV', 'SupplyDepotDrop/SCV'],
                #['GenerateCreep/Overlord','StopGenerateCreep/Overlord']]
                ['VoidSentryShieldRepair/Sentry', 'VoidSentryShieldRepairDouble/SentryAiur'],
                ['UpgradeToWarpGate/Gateway', 'UpgradeToRoboticsFacilityWarp/RoboticsFacility', 'UpgradeToStargateWarp/Stargate'],
-               ['MorphBackToGateway/WarpGate', 'MorphBackToRoboticsFacility/RoboticsFacilityWarp', ],
+               ['MorphBackToGateway/WarpGate', 'MorphBackToRoboticsFacility/RoboticsFacilityWarp', 'MorphBackToStargate/StargateWarp'],
                ['Vortex/Mothership', 'Vortex/Artanis', 'VoidSentryBlackHole/SOAMothershipv4', 'TemporalField/Mothership', 'TemporalField/MothershipCore'],
                ['250mmStrikeCannons/Thor', '250mmStrikeCannons/ThorWreckageSwann'],
                ['SelfRepair/Thor', 'SelfRepair/ThorWreckageSwann'],

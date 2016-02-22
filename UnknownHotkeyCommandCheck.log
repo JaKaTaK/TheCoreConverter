@@ -1,0 +1,157 @@
+============================
+Start command conflicts with hotkeys, out of identified conflicts (log file: UnknownHotkeyCommandCheck.log)
+----------------------------
+[ERROR]: F used for command Aggressive/LurkerMPBurrowed, in seed P
+[ERROR]: R used for command BuildScarab/Reaver, in seed P
+[ERROR]: A used for command CreepTumor/Queen, in seed P
+[ERROR]: R used for command DarkSwarm/Infestor, in seed P
+[ERROR]: R used for command Detonate/SpiderMine, in seed P
+[ERROR]: R used for command EMP/ScienceVessel, in seed P
+[ERROR]: R used for command EvadeObserver/Observer, in seed P
+[ERROR]: R used for command Guardian/Mutalisk, in seed P
+[ERROR]: R used for command HotSBioPlasmidDischarge/HotSLeviathan, in seed P
+[ERROR]: F used for command IgniteAfterburner/Medivac, in seed P
+[ERROR]: R used for command InjectLarva/Queen, in seed P
+[ERROR]: R used for command LaunchNullWard/NullSphere, in seed P
+[ERROR]: R used for command LockdownRound/Ghost, in seed P
+[ERROR]: R used for command Matrix/Medic, in seed P
+[ERROR]: F used for command MorphtoDevourer/Mutalisk, in seed P
+[ERROR]: 5 used for command MutateintoDefilerMound/Drone, in seed P
+[ERROR]: A used for command Passive, in seed P
+[ERROR]: R used for command PhaseMissile/Scout, in seed P
+[ERROR]: R used for command PlaceWard/Oracle, in seed P
+[ERROR]: A used for command PrimalConsume/Infestor, in seed P
+[ERROR]: R used for command Probe/KhaydarinNexus, in seed P
+[ERROR]: F used for command Recall/Arbiter, in seed P
+[ERROR]: 5 used for command ResearchCharonBooster/FactoryTechLab, in seed P
+[ERROR]: 5 used for command ResearchEngineeredExplosives/BarracksTechLab, in seed P
+[ERROR]: 5 used for command ResearchFortifiedBunkers/EngineeringBay, in seed P
+[ERROR]: R used for command ResearchGraviticBooster/Observatory, in seed P
+[ERROR]: R used for command ResearchMatrix/BarracksTechLab, in seed P
+[ERROR]: F used for command ResearchPiercingRockets/StarportTechLab, in seed P
+[ERROR]: F used for command ResearchRecall/ArbiterTribunal, in seed P
+[ERROR]: F used for command ResearchSingularityCharge2/CyberneticsCore, in seed P
+[ERROR]: R used for command ResearchSpiderMines/FactoryTechLab, in seed P
+[ERROR]: R used for command ResearchTimeWarp/FleetBeacon, in seed P
+[ERROR]: A used for command ResearchTitanReactor/StarportTechLab, in seed P
+[ERROR]: R used for command ResearchTurboGripper/StarportTechLab, in seed P
+[ERROR]: F used for command Rift/KhaydarinNexus, in seed P
+[ERROR]: F used for command Rift/Nexus, in seed P
+[ERROR]: R used for command SJHyperionBlink/Battlecruiser, in seed P
+[ERROR]: R used for command SlivanPuke/Devourer, in seed P
+[ERROR]: R used for command StasisField/Arbiter, in seed P
+[ERROR]: R used for command StasisField/ArbiterTribunal, in seed P
+[ERROR]: F used for command TimeWarpSentinel/Oracle, in seed P
+[ERROR]: F used for command UpgradeLIDARTransmitter/EngineeringBay, in seed P
+[ERROR]: R used for command UseSpiderMine/Vulture, in seed P
+[ERROR]: R used for command WarpinDragoon/Gateway, in seed P
+[ERROR]: C used for command WarpinObservatory/Probe, in seed P
+[ERROR]: C used for command WidowMineAttack/WidowMine, in seed P
+[ERROR]: R used for command WormholeTransit/Predator, in seed P
+[ERROR]: H used for command BattleRage/Khraxus, in seed T
+[ERROR]: A used for command CreepTumor/Queen, in seed T
+[ERROR]: H used for command EnrageQueen/Queen, in seed T
+[ERROR]: V used for command EvolveBurrowCharge/Hatchery, in seed T
+[ERROR]: G used for command HellfireThrusters/StarportTechLab, in seed T
+[ERROR]: H used for command Overcharge/OrbitalCommand, in seed T
+[ERROR]: A used for command Passive, in seed T
+[ERROR]: H used for command Plague/Infestor, in seed T
+[ERROR]: A used for command PrimalConsume/Infestor, in seed T
+[ERROR]: G used for command ResearchBarrelStabilizers/BarracksTechLab, in seed T
+[ERROR]: G used for command ResearchEvadeObserver/Observatory, in seed T
+[ERROR]: G used for command ResearchIonThrusters/FactoryTechLab, in seed T
+[ERROR]: H used for command ResearchIrradiate/StarportTechLab, in seed T
+[ERROR]: G used for command ResearchKhaydarinCore/ArbiterTribunal, in seed T
+[ERROR]: G used for command ResearchKhaydarinGenerator/FleetBeacon, in seed T
+[ERROR]: V used for command ResearchPlasmaCharge/RoboticsBay, in seed T
+[ERROR]: A used for command ResearchTitanReactor/StarportTechLab, in seed T
+[ERROR]: G used for command UpgradewithKhaydarinCore/Nexus, in seed T
+[ERROR]: G used for command WarpInCorsair/Stargate, in seed T
+[ERROR]: V used for command WarpInReaver/RoboticsFacility, in seed T
+[ERROR]: H used for command WarpinArbiterTribunal/Probe, in seed T
+[ERROR]: H used for command XaphanForce/Voranor, in seed T
+[ERROR]: H used for command BattleRage/Khraxus, in seed R
+[ERROR]: H used for command EnrageQueen/Queen, in seed R
+[ERROR]: V used for command EvolveBurrowCharge/Hatchery, in seed R
+[ERROR]: G used for command HellfireThrusters/StarportTechLab, in seed R
+[ERROR]: H used for command Overcharge/OrbitalCommand, in seed R
+[ERROR]: H used for command Plague/Infestor, in seed R
+[ERROR]: G used for command ResearchBarrelStabilizers/BarracksTechLab, in seed R
+[ERROR]: G used for command ResearchEvadeObserver/Observatory, in seed R
+[ERROR]: G used for command ResearchIonThrusters/FactoryTechLab, in seed R
+[ERROR]: H used for command ResearchIrradiate/StarportTechLab, in seed R
+[ERROR]: G used for command ResearchKhaydarinCore/ArbiterTribunal, in seed R
+[ERROR]: G used for command ResearchKhaydarinGenerator/FleetBeacon, in seed R
+[ERROR]: V used for command ResearchPlasmaCharge/RoboticsBay, in seed R
+[ERROR]: G used for command UpgradewithKhaydarinCore/Nexus, in seed R
+[ERROR]: G used for command WarpInCorsair/Stargate, in seed R
+[ERROR]: V used for command WarpInReaver/RoboticsFacility, in seed R
+[ERROR]: H used for command WarpinArbiterTribunal/Probe, in seed R
+[ERROR]: H used for command XaphanForce/Voranor, in seed R
+[ERROR]: F used for command Aggressive/LurkerMPBurrowed, in seed Z
+[ERROR]: R used for command BattleRage/Khraxus, in seed Z
+[ERROR]: R used for command BuildScarab/Reaver, in seed Z
+[ERROR]: R used for command DarkSwarm/Infestor, in seed Z
+[ERROR]: R used for command Detonate/SpiderMine, in seed Z
+[ERROR]: R used for command EMP/ScienceVessel, in seed Z
+[ERROR]: R used for command EvadeObserver/Observer, in seed Z
+[ERROR]: R used for command Guardian/Mutalisk, in seed Z
+[ERROR]: R used for command HotSBioPlasmidDischarge/HotSLeviathan, in seed Z
+[ERROR]: E used for command HotSBioStasis/HotSLeviathan, in seed Z
+[ERROR]: F used for command IgniteAfterburner/Medivac, in seed Z
+[ERROR]: R used for command InjectLarva/Queen, in seed Z
+[ERROR]: R used for command LaunchNullWard/NullSphere, in seed Z
+[ERROR]: R used for command LockdownRound/Ghost, in seed Z
+[ERROR]: R used for command Matrix/Medic, in seed Z
+[ERROR]: F used for command MorphtoDevourer/Mutalisk, in seed Z
+[ERROR]: 5 used for command MutateintoDefilerMound/Drone, in seed Z
+[ERROR]: R used for command PhaseMissile/Scout, in seed Z
+[ERROR]: R used for command PlaceWard/Oracle, in seed Z
+[ERROR]: R used for command Probe/KhaydarinNexus, in seed Z
+[ERROR]: F used for command Recall/Arbiter, in seed Z
+[ERROR]: 5 used for command ResearchCharonBooster/FactoryTechLab, in seed Z
+[ERROR]: 5 used for command ResearchEngineeredExplosives/BarracksTechLab, in seed Z
+[ERROR]: 5 used for command ResearchFortifiedBunkers/EngineeringBay, in seed Z
+[ERROR]: R used for command ResearchGraviticBooster/Observatory, in seed Z
+[ERROR]: R used for command ResearchMatrix/BarracksTechLab, in seed Z
+[ERROR]: F used for command ResearchPiercingRockets/StarportTechLab, in seed Z
+[ERROR]: F used for command ResearchRecall/ArbiterTribunal, in seed Z
+[ERROR]: F used for command ResearchSingularityCharge2/CyberneticsCore, in seed Z
+[ERROR]: R used for command ResearchSpiderMines/FactoryTechLab, in seed Z
+[ERROR]: R used for command ResearchTimeWarp/FleetBeacon, in seed Z
+[ERROR]: R used for command ResearchTurboGripper/StarportTechLab, in seed Z
+[ERROR]: R used for command RetributionField/Meliak, in seed Z
+[ERROR]: F used for command Rift/KhaydarinNexus, in seed Z
+[ERROR]: F used for command Rift/Nexus, in seed Z
+[ERROR]: R used for command SJHyperionBlink/Battlecruiser, in seed Z
+[ERROR]: R used for command SlivanPuke/Devourer, in seed Z
+[ERROR]: R used for command StasisField/Arbiter, in seed Z
+[ERROR]: R used for command StasisField/ArbiterTribunal, in seed Z
+[ERROR]: F used for command TimeWarpSentinel/Oracle, in seed Z
+[ERROR]: F used for command UpgradeLIDARTransmitter/EngineeringBay, in seed Z
+[ERROR]: R used for command UseSpiderMine/Vulture, in seed Z
+[ERROR]: R used for command WarpinDragoon/Gateway, in seed Z
+[ERROR]: C used for command WarpinObservatory/Probe, in seed Z
+[ERROR]: E used for command WormholeTransit/Predator, in seed Z
+[ERROR]: R used for command XaphanForce/Voranor, in seed Z
+[ERROR]: B used for command BattleRage/Khraxus, in seed TheCore Lite
+[ERROR]: Q used for command HotSBioPlasmidDischarge/HotSLeviathan, in seed TheCore Lite
+[ERROR]: W used for command HotSBioStasis/HotSLeviathan, in seed TheCore Lite
+[ERROR]: B used for command ShapedBlast/SiegeBreakerSieged, in seed TheCore Lite
+[ERROR]: B used for command ShapedBlast/SiegeTankSieged, in seed TheCore Lite
+[ERROR]: X used for command XaphanForce/Voranor, in seed TheCore Lite
+[ERROR]: B used for command BattleRage/Khraxus, in seed TheCore LiteRehab
+[ERROR]: Q used for command HotSBioPlasmidDischarge/HotSLeviathan, in seed TheCore LiteRehab
+[ERROR]: W used for command HotSBioStasis/HotSLeviathan, in seed TheCore LiteRehab
+[ERROR]: B used for command ShapedBlast/SiegeBreakerSieged, in seed TheCore LiteRehab
+[ERROR]: B used for command ShapedBlast/SiegeTankSieged, in seed TheCore LiteRehab
+[ERROR]: X used for command XaphanForce/Voranor, in seed TheCore LiteRehab
+[ERROR]: B used for command BattleRage/Khraxus, in seed TheCore LiteMonitor
+[ERROR]: Q used for command HotSBioPlasmidDischarge/HotSLeviathan, in seed TheCore LiteMonitor
+[ERROR]: W used for command HotSBioStasis/HotSLeviathan, in seed TheCore LiteMonitor
+[ERROR]: B used for command ShapedBlast/SiegeBreakerSieged, in seed TheCore LiteMonitor
+[ERROR]: B used for command ShapedBlast/SiegeTankSieged, in seed TheCore LiteMonitor
+[ERROR]: X used for command XaphanForce/Voranor, in seed TheCore LiteMonitor
+----------------------------
+Finished (command conflicts with hotkeys, out of identified conflicts) - ERRORs: 151 
+============================

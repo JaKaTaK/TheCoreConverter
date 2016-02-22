@@ -2,6 +2,13 @@
 AllowSetConflicts=1
 
 [Hotkeys]
+AIArmy=Control+Alt+M
+AIBuild=Control+Alt+B
+AIClearAll=Control+Alt+Period
+AIDelete=Control+Alt+Period
+AIDetect=Control+Alt+K
+AIExpand=Control+Alt+I
+AIScout=Control+Alt+L
 AlertRecall=Control+Shift+Alt+F4
 ArmySelect=F6
 CameraCenter=Control+Alt

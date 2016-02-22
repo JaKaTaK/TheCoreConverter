@@ -1,3 +1,4 @@
+#!/usr/bin/python
 ##################################################
 #
 # Filename: correct_seeds.py

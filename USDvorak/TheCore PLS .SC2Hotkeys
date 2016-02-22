@@ -2,6 +2,13 @@
 AllowSetConflicts=1
 
 [Hotkeys]
+AIArmy=Alt+CapsLock
+AIBuild=Alt+K
+AIClearAll=
+AIDelete=
+AIDetect=Alt+O
+AIExpand=Alt+Comma
+AIScout=Alt+A
 AlertRecall=Control+Shift+Alt+F8
 ArmySelect=F1
 CameraCenter=Alt,Control+T,Shift+P
@@ -185,7 +192,7 @@ Arbiter/Stargate=3
 Arbiter/StargateWarp=3
 ArbiterMPRecall/ArbiterMP=3
 ArbiterMPStasisField/ArbiterMP=Comma
-ArchonAdvancedMergeSelection=
+ArchonAdvancedMergeSelection=3
 ArchonHallucination/Nexus=O
 ArchonHallucination/Sentry=O
 ArchonHallucination/Voranor=O
