@@ -173,6 +173,13 @@ class Hotkey:
                     value = value + "," + alternate
             values = values + race.value + ":" + value + "\n"
         return values
+    
+    def equal_value(self, other_hotkey, race):
+        value = self.get_value(race)
+        other_value = other_hotkey.get_value(race)
+        value_set = set(str(value).split(","))
+        other_value_set = set(str(other_value).split(","))
+        return value_set == other_value_set
 
 def init_seed_hotkeyfile_parser():
     for race in Races:
@@ -492,7 +499,7 @@ def conflict_check(model):
                                 if issue_value == value:
                                     issue = True
                             if issue:        
-                                log_msg + log_msg + "\n\t" + key + " = " + raw_values
+                                log_msg = log_msg + "\n\t" + key + " = " + raw_values
                     logger.log(LogLevel.Error, log_msg)
     logger.finish()
                 
@@ -550,11 +557,8 @@ def wrong_inherit(model):
             hotkeycopyof = resolve_copyof(model, section, hotkey)
             equal = True
             for race in Races:
-                value = hotkey.get_value(race)
-                copyofvalue = hotkeycopyof.get_value(race)
-                value_set = set(str(value).split(","))
-                copyofvalue_set = set(str(copyofvalue).split(","))
-                if value_set != copyofvalue_set:
+                value_equals = hotkey.equal_value(hotkeycopyof, race)
+                if not value_equals:
                     equal = False
             if not equal:
                 log_msg = hotkey.name + " != " + hotkeycopyof.name + "\n"
@@ -565,17 +569,20 @@ def wrong_inherit(model):
                         value = " "
                     if not copyofvalue:
                         copyofvalue = " "
-                    log_msg = log_msg + "\t" + race.value + ": " + str(value) + "\t" + str(copyofvalue) + "\n"
+                    seperator = "    "
+                    value_equals = hotkey.equal_value(hotkeycopyof, race)
+                    if not value_equals:
+                        seperator = " != "
+                    log_msg = log_msg + "\t" + race.value + ": " + str(value) + "\t" + seperator + str(copyofvalue) + "\n"
                 default = hotkey.default
                 if not default:
                     default = " "
                 copyofdefault = hotkeycopyof.default
                 if not copyofdefault:
                     copyofdefault = " "
-                log_msg = log_msg + "\tD: " + str(default) + "\t" + str(copyofdefault) + " (default)"
+                log_msg = log_msg + "\tD: " + str(default) + "\t    " + str(copyofdefault) + " (default)"
                 logger.log(LogLevel.Error, log_msg)
     logger.finish()
-
 
 print("  ________         ______              " + "\n"
     " /_  __/ /_  ___  / ____/___  ________ " + "\n"

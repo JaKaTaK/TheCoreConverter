@@ -202,7 +202,20 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ZealotHallucination/Nexus
 [WARN]: no default ZealotHallucination/Voranor
 [WARN]: no default hydraliskspeed/LurkerDen
-[ERROR]: key has multiple different defaults - please set in all seed layouts a value for this key (or at leased unbound it) ResearchStabilizerMedpacks/BarracksTechLab
+[ERROR]: no default EvolveAdaptivePlating/GreaterRoachWarren
+[ERROR]: no default EvolveAdrenalineBoost/EvolutionChamber
+[ERROR]: no default EvolveGlialRegeneration/GreaterRoachWarren
+[ERROR]: no default EvolveHydriodicBile/GreaterRoachWarren
+[ERROR]: no default EvolveTunnelingClaws/GreaterRoachWarren
+[ERROR]: no default GreaterRoachWarren/RoachWarren
+[ERROR]: no default Lurker/HydraliskImpaler
+[ERROR]: no default MorphToGuardian/Mutalisk
+[ERROR]: no default ResearchCarapaceRankOne/EvolutionChamber
+[ERROR]: no default ResearchLocustNest/EvolutionChamber
+[ERROR]: no default ResearchSpikeBurstRankOne/EvolutionChamber
+[ERROR]: no default ResearchStabRankOne/EvolutionChamber
+[ERROR]: no default SpawnLocustNest/CreepTumorBurrowed
+[ERROR]: no default SpawnToxicNest/CreepTumorBurrowed
 ----------------------------
-Finished (Check defaults) - WARNs: 201 ERRORs: 1 
+Finished (Check defaults) - WARNs: 201 ERRORs: 14 
 ============================
