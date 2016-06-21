@@ -49,6 +49,1300 @@ Start conflict check (log file: ConflictCheck.log)
 	Medivac/Starport = E
 	Wraith/Starport = E
 
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Archon
+	HealingPsionicStorm/Archon = H
+	MovePatrol = H
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/BroodMother
+	BurrowDown = D
+	DeepTunnel/BroodMother = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Brutalisk
+	BrutaliskDeepTunnel/Brutalisk = D
+	BurrowDown = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/DefilerMP
+	BurrowDown = D
+	DefilerMPDarkSwarm/DefilerMP = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/DefilerMP
+	Attack = G
+	DefilerMPPlague/DefilerMP = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/DrakkenLaserDrillCoop 2
+	DrakkenLaserDrillNuke/DrakkenLaserDrillCoop = E
+	ResearchDrakkenLaserDrillBFG/DrakkenLaserDrillCoop = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Drone (card index 0) 0
+	MutatorWorkerSleep/Drone = E
+	ZergBuild/Drone = E,V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Drone (card index 0) 0
+	Cancel = Z
+	ZergBuildAdvanced/Drone = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Drone (card index 0) 1
+	MutatorWorkerSleep/Drone = E
+	ZergBuild/Drone = E,V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/EngineeringBay 1
+	TerranInfantryArmorLevel1/EngineeringBay = E
+	TerranInfantryWeaponsLevel2/EngineeringBay = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/EngineeringBay 4
+	TerranInfantryArmorLevel1/EngineeringBay = E
+	TerranInfantryWeaponsLevel3/EngineeringBay = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Ghost/Epilogue02VoidRift = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/GreaterSpire 1
+	EvolveGuardianAttackRangeIncrease/GreaterSpire = E
+	zergflyerarmor1 = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HighArchonTemplar
+	HealingPsionicStorm/HighArchonTemplar = H
+	MovePatrol = H
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HighTemplar
+	HealingPsionicStorm/HighTemplar = H
+	MovePatrol = H
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 3
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/HugeSwarmQueen 7
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/ImpalerAbathur
+	AbathurDeepTunnel/ImpalerAbathur = D
+	ImpalerBurrowDown = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	BurrowDown = D
+	KerriganVoidCoopCrushingGripWave/K5KerriganPsiStrike = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	BurrowDown = D
+	K5Leviathan/K5KerriganPsiStrike = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	BurrowDown = D
+	K5Leviathan/K5KerriganPsiStrike = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	BurrowDown = D
+	KerriganVoidCoopCrushingGripWave/K5KerriganPsiStrike = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Mutalisk
+	Attack = G
+	MorphToGuardian/Mutalisk = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Phoenix
+	Attack = G
+	GravitonBeamVoidCampaign/Phoenix = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Probe (card index 0)
+	MutatorWorkerSleep/Probe = E
+	ProtossBuild/Probe = E,V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Queen (card index 0) 0
+	EvolveToBrutalisk/Queen = B
+	Transfusion/Queen = V,B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = V
+	Transfusion/Queen = V,B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Queen (card index 0) 1
+	EvolveToBrutalisk/Queen = B
+	Transfusion/Queen = V,B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Queen (card index 0) 1
+	QueenBurstHeal/Queen = V
+	Transfusion/Queen = V,B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/RoachWarren
+	EvolveCorrosiveBileDamageIncrease/RoachWarren = E
+	EvolveTunnelingClaws/RoachWarren = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/RoboticsBay 1
+	ResearchBarrier/RoboticsBay = 4
+	ResearchExtendedThermalLance/RoboticsBay = 4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/RoboticsBay 3
+	ResearchBarrier/RoboticsBay = 4
+	ResearchExtendedThermalLance/RoboticsBay = 4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SCV (card index 0)
+	MutatorWorkerSleep/SCV = E
+	TerranBuild/SCV = E,V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Scourge 1
+	Attack = G
+	DisableBuildingAttackScourge/Scourge = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SentryAiur
+	Attack = G
+	GuardianShield/SentryCampaignBase = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Spire 0
+	EvolveGuardianAttackRangeIncrease/Spire = E
+	zergflyerarmor1 = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Spire 2
+	GreaterSpireViper/Spire = G
+	zergflyerattack1 = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Spire 3
+	EvolveGuardianAttackRangeIncrease/Spire = E
+	zergflyerarmor1 = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Spire 3
+	GreaterSpireViper/Spire = G
+	zergflyerattack1 = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Stalker = D
+	WarpInDarkTemplarChampion/SuperWarpGate = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHost
+	HotSPressurizedGlands/SwarmHost = P
+	RapidIncubation/SwarmHost = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostBurrowed
+	AbathurDeepTunnel/SwarmHostBurrowed = D
+	SwarmHostUprootUnburrow = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitA 0
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitA 1
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitABurrowed
+	HotSPressurizedGlands/SwarmHostSplitABurrowed = P
+	RapidIncubation/SwarmHostSplitABurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitARooted
+	HotSPressurizedGlands/SwarmHostSplitARooted = P
+	RapidIncubation/SwarmHostSplitARooted = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitB 0
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitB 1
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitBBurrowed
+	HotSPressurizedGlands/SwarmHostSplitBBurrowed = P
+	RapidIncubation/SwarmHostSplitBBurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmHostSplitBRooted
+	HotSPressurizedGlands/SwarmHostSplitBRooted = P
+	RapidIncubation/SwarmHostSplitBRooted = P
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/SwarmQueenEgg (card index 1) 1
+	SwarmQueenCorpser/SwarmQueenEgg = E
+	SwarmQueenZergling/SwarmQueenEgg = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/Viper
+	ParasiticBomb/Viper = 4,B
+	ViperConsumption/Viper = 4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidRift (card index 3)
+	Aberration/VoidRift = B
+	BroodLord/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidRift (card index 3)
+	Cancel = Z
+	Zergling/VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Ghost/VoidThrasher = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Ghost/VoidThrasherWalker = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/WarpPrismGiant
+	BunkerUnloadAll = E
+	PhasingMode/WarpPrismGiant = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: alliedcommanders/ZaGara
+	BurrowDown = D
+	DeepTunnel/ZaGara = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 0
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 1
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 2
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 2
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 3
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 3
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 4
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 5
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 6
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 6
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 7
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 7
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 8
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/Factory (card index 0) 8
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/HugeSwarmQueen 3
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/HyperionKorhal
+	HyperionKorhalYamato/HyperionKorhal = Y
+	Stop = Y
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/NovaHero
+	Attack = G
+	WeaponsFree/NovaHero = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/TitanMechAssault
+	Attack = G
+	TitanMechGunShot/TitanMechAssault = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/VoidRift (card index 0)
+	ProtossBuild/VoidRift = B
+	TerranBuild/VoidRift = B
+	ZergBuild/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Carrier/VoidThrasherWalker = C
+	Colossus/VoidThrasherWalker = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Ghost/VoidThrasherWalker = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 19
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 23
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 26
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 29
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 32
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 36
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 39
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 42
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 46
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel2/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 49
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 52
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 56
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 59
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 62
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 65
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 69
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 72
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Armory 75
+	TerranShipPlatingLevel1/Armory = E
+	TerranVehicleWeaponsLevel3/Armory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/EngineeringBay 2
+	TerranInfantryArmorLevel1/EngineeringBay = E
+	TerranInfantryWeaponsLevel2/EngineeringBay = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/EngineeringBay 5
+	TerranInfantryArmorLevel1/EngineeringBay = E
+	TerranInfantryWeaponsLevel3/EngineeringBay = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Factory 0
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Factory 1
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/MercenaryFortress
+	BunkerUnloadAll = E
+	SCV = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/SCV (card index 0)
+	Cancel = Z
+	TerranBuildAdvanced/SCV = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Starport 0
+	Banshee/Starport = B
+	BuildHercules/Starport = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Starport 0
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Starport 1
+	Banshee/Starport = B
+	BuildHercules/Starport = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/Starport 1
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/SuperWarpGate (card index 0)
+	Carrier/SuperWarpGate = C
+	Colossus/SuperWarpGate = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/SuperWarpGate (card index 0)
+	Archon/SuperWarpGate = N
+	Rally = N
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: libertystory/SuperWarpGate (card index 0)
+	DarkTemplar = V
+	VoidRay/SuperWarpGate = V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Bunker 0
+	BunkerUnloadAll = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Bunker 1
+	BunkerUnloadAll = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Bunker 2
+	BunkerUnloadAll = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 01
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 02
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 03
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 04
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 05
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 07
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 08
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 09
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 10
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 12
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 13
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 22
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 23
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 24
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 42
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 43
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 44
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 49
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 53
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 57
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 58
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 58
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 59
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 60
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 61
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 62
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 63
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 64
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 65
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 66
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 67
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 68
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 69
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 70
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 71
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 72
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 73
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 74
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 75
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Factory (card index 0) 75
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/GhostVulture
+	Attack = G
+	WeaponsFree/GhostVulture = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HellionTank
+	MorphToHellion/Hellion = 4
+	Stim = 4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HighArchonTemplar
+	HealingPsionicStorm/HighArchonTemplar = H
+	MovePatrol = H
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 00
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 03
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 05
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 07
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 09
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HugeSwarmQueen 10
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HybridDestroyer
+	Attack = G
+	GravitonPrison/HybridDestroyer = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/HybridDominator
+	Attack = G
+	GravitonPrison/HybridDominator = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/LargeSwarmQueen 4
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Leviathan
+	BioPlasmidDischarge/Leviathan = B
+	SpawnBroodLord/Leviathan = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/PhoenixAiur
+	Attack = G
+	PhoenixAiurGravitonBeam/Phoenix = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/PrimalTownHallUprooted
+	PrimalBuildingRoot/PrimalTownHallUprooted = R
+	PrimalRoach/PrimalTownHallUprooted = R
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/PrimalTownHallUprooted
+	Cancel = Z
+	PrimalZergling/PrimalTownHallUprooted = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 0
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 1
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 2
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 3
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 4
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 5
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/Starport (card index 0) 6
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/SwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/VoidSeekerCrashed
+	BunkerLoad = V
+	PhaseMineBlast/VoidSeekerCrashed = V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/VoidThrasher (card index 1)
+	Carrier/VoidThrasher = C
+	Colossus/VoidThrasher = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/VoidThrasher (card index 1)
+	Ghost/VoidThrasher = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novacampaign/WarfieldFortress
+	BunkerUnloadAll = E
+	SCV = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Bunker
+	BunkerUnloadAll = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 00
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 00
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 01
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 01
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 02
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 02
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 03
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 03
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 04
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 05
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 06
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 08
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 09
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 10
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 11
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 12
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 13
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 14
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 15
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 16
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 17
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 30
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 31
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 32
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 41
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 46
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 48
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 49
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 50
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 51
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 60
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 60
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 61
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 61
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 62
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 62
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 63
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 63
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 64
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 64
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 65
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 66
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 67
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Factory (card index 0) 67
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Ghost
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/MothershipAiur06
+	PlanetCracker/MothershipAiur06 = C
+	PlanetCrackerOff/MothershipAiur06 = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/PhoenixAiur
+	Attack = G
+	PhoenixAiurGravitonBeam/Phoenix = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Starport (card index 0) 0
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Starport (card index 0) 1
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Starport (card index 0) 2
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Starport (card index 0) 3
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/Starport (card index 0) 4
+	Medivac/Starport = E
+	Wraith/Starport = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Stalker = D
+	WarpInDarkTemplarChampion/SuperWarpGate = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/SwarmQueenEgg (card index 1)
+	SwarmQueenCorpser/SwarmQueenEgg = E
+	SwarmQueenZergling/SwarmQueenEgg = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/VoidRift (card index 2)
+	Carrier/VoidRift = C
+	Colossus/VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/VoidRiftUnselectable (card index 0)
+	ProtossBuild/VoidRiftUnselectable = B
+	TerranBuild/VoidRiftUnselectable = B
+	ZergBuild/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: novastoryassets/VoidSeeker
+	BunkerLoad = V
+	PhaseMineBlast/VoidSeeker = V
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/HugeSwarmQueen 7
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/Hyperion
+	HyperionYamatoGun/Hyperion = Y
+	Stop = Y
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/Loki
+	MissilePods/Loki = E
+	YamatoGun = E,4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/MengskReaper
+	Attack = G
+	D8Charge/MengskReaper = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: swarmstory/SwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidmulti/Carrier
+	Attack = G
+	GravitonCatapult/Carrier = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidmulti/DefilerMP
+	BurrowDown = D
+	DefilerMPDarkSwarm/DefilerMP = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidmulti/DefilerMP
+	Attack = G
+	DefilerMPPlague/DefilerMP = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidmulti/GhostAlternate
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/Factory (card index 1)
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/GhostLaserLines (card index 0)
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/Infestor
+	InfestorConsumption/Infestor = 4
+	NPSwarm/Infestor = 4,B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/LargeSwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/Maar
+	Attack = G
+	GravitonPrison/Maar = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/PrimalTownHall (card index 0)
+	Cancel = Z
+	PrimalZergling/PrimalTownHall = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/PrologueZeratul
+	ShadowBlade/PrologueZeratul = E
+	ZeratulBlink/PrologueZeratul = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/ResidualVortex
+	Archon/ResidualVortex = N
+	Rally = N
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/ShadowOfTheVoidHybridDominator
+	Attack = G
+	GravitonPrison/ShadowOfTheVoidHybridDominator = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidprologue/SwarmQueenEgg (card index 1) 2
+	SwarmQueenCorpser/SwarmQueenEgg = E
+	SwarmQueenZergling/SwarmQueenEgg = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Carrier/Epilogue02VoidRift = C
+	Colossus/Epilogue02VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Ghost/Epilogue02VoidRift = G
+	Zealot = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 00
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 01
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 02
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 03
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 04
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 04
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 05
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 05
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 06
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 06
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 07
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 07
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 08
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 08
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 09
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 10
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 11
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 12
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 13
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 13
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 14
+	Goliath/Factory = E
+	Vulture/Factory = E
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Factory (card index 0) 14
+	Diamondback/Factory = M
+	MengskUnits/Factory = M
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/HugeSwarmQueen 4
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/KerriganChar
+	BurrowDown = D
+	DeepTunnel/KerriganChar = D
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/MengskBC
+	MissilePods/MengskBC = E
+	YamatoGun = E,4
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/Phoenix
+	Attack = G
+	GravitonBeamVoidCampaign/Phoenix = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/SentryAiur
+	Attack = G
+	GuardianShield/SentryCampaignBase = G
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/SwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/VoidRiftUnselectable (card index 2)
+	Carrier/VoidRiftUnselectable = C
+	Colossus/VoidRiftUnselectable = C
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Aberration/VoidRiftUnselectable = B
+	BroodLord/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Cancel = Z
+	Zergling/VoidRiftUnselectable = Z
+
+[ERROR]: Conflict of hotkeys in race: P commandcard: voidstory/YagdraEggSmall
+	Cancel = Z
+	PrimalZergling/YagdraEggSmall = Z
+
 [ERROR]: Conflict of hotkeys in race: T commandcard: Coop/Terran/Units/Ghost
 	GhostHoldFire/Ghost = X
 	WeaponsFree/Ghost = X
@@ -93,6 +1387,914 @@ Start conflict check (log file: ConflictCheck.log)
 	MissilePods/DukesRevenge = 4
 	YamatoGun = 4,D
 
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/AbathurLavaWorm
+	Stop = F
+	YagdraFireball/AbathurLavaWorm = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/ArchAngelCoopAssault
+	ArchAngelCoopMissileShot/ArchAngelCoopAssault = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/BroodMother
+	BuildCreepTumor/BroodMother = D
+	DeepTunnel/BroodMother = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Brutalisk
+	Attack = E
+	SymbioteCarapace/Brutalisk = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Colossus (card index 0)
+	Attack = E
+	ResearchExtendedThermalLance/Colossus = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/ColossusPurifier (card index 0)
+	Attack = E
+	ResearchExtendedThermalLance/ColossusPurifier = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/CycloneWreckage 1
+	LockOnUpgraded/Cyclone = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/DefilerMP
+	InfestorConsumption/DefilerMP = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/DrakkenLaserDrillCoop 3
+	BrokenDrakkenLaserDrill/DrakkenLaserDrillCoop = R
+	ResearchDrakkenLaserDrillBFG/DrakkenLaserDrillCoop = R
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Drone (card index 0) 0
+	Attack = E
+	MutatorWorkerSleep/Drone = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Drone (card index 0) 0
+	Cancel = Z
+	ZergBuildAdvanced/Drone = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Drone (card index 0) 1
+	Attack = E
+	MutatorWorkerSleep/Drone = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/DukesRevenge
+	MissilePods/DukesRevenge = 4
+	YamatoGun = 4,D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Banshee/Epilogue02VoidRift = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/FenixSOA
+	MovePatrol = C
+	VoidShieldCapacitor/FenixSOA = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Gateway (card index 0) 0
+	WarpInReplicant/Gateway = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/GreaterSpire 0
+	EvolveDevourerAoEDamage/GreaterSpire = D
+	EvolveMutaliskRapidRegeneration/GreaterSpire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/GreaterSpire 1
+	EvolveDevourerAoEDamage/GreaterSpire = D
+	EvolveMutaliskRapidRegeneration/GreaterSpire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/GreaterSpire 1
+	EvolveGuardianAttackRangeIncrease/GreaterSpire = E
+	zergflyerattack1 = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Hatchery (card index 0) 0
+	BuildCreepTumor/Hatchery = C
+	Larva = E,R,D,3,C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HighTemplarShakuras 0
+	Feedback/HighTemplarShakuras = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HighTemplarShakuras 1
+	Feedback/HighTemplarShakuras = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Hive (card index 0) 1
+	BuildCreepTumor/Hive = C
+	Larva = E,R,D,3,C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 3
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HugeSwarmQueen 7
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/HydraliskDen 1
+	Cancel = Z
+	ImpalerDen/HydraliskDen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/ImpalerDen
+	EvolveMuscularAugments/ImpalerDen = E
+	ResearchSeismicSpinesAbathur/ImpalerDen = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	Attack = E
+	KerriganVoidCoopEconDrop/K5KerriganPsiStrike = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	Attack = E
+	WildMutation/K5KerriganPsiStrike = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	Attack = E
+	KerriganVoidCoopEconDrop/K5KerriganPsiStrike = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	Attack = E
+	WildMutation/K5KerriganPsiStrike = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/KerriganEpilogue02 (card index 0)
+	CelestialBeam/KerriganEpilogue02 = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/KhaydarinMonolith
+	Attack = E
+	ResearchKaraxTurretAttackSpeed/KhaydarinMonolith = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Lair (card index 0) 1
+	BuildCreepTumor/Lair = C
+	Larva = E,R,D,3,C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 00
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 01
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 06
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 15
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 16
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Larva 17
+	Aberration/Larva = 7
+	Scourge/Larva = 7
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/MengskMedic
+	Attack = E
+	MercMedicHeal/MengskMedic = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/MercVulture
+	Attack = E
+	SpiderMine/MercVulture = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/NarudEpilogue
+	Attack = E
+	NarudEpilogueSummonShadeofNarud/NarudEpilogue = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Overseer
+	Attack = E
+	MorphtoOverseerSiege/Overseer = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/PhotonCannon
+	Attack = E
+	ResearchKaraxTurretAttackSpeed/PhotonCannon = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Probe (card index 0)
+	Attack = E
+	MutatorWorkerSleep/Probe = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Purifier
+	MovePatrol = C
+	PlanetCracker/Purifier = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = 3,Z
+	Transfusion/Queen = 3,Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = 3,Z
+	Transfusion/Queen = 3,Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Queen (card index 0) 1
+	QueenBurstHeal/Queen = 3,Z
+	Transfusion/Queen = 3,Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Queen (card index 0) 1
+	Cancel = Z
+	QueenBurstHeal/Queen = 3,Z
+	Transfusion/Queen = 3,Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/RavagerAbathur
+	MovePatrol = C
+	RavagerAbathurCorrosiveBile/RavagerAbathur = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/RoachWarren
+	EvolveCorrosiveBileDamageIncrease/RoachWarren = E
+	EvolveGlialRegeneration/RoachWarren = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SCV (card index 0)
+	Attack = E
+	MutatorWorkerSleep/SCV = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SentryPurifier 0
+	MovePatrol = C
+	VoidSentryChronoBeam/SentryCampaignBase = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SentryPurifier 0
+	Attack = E
+	VoidSentryPhasingMode/SentryCampaignBase = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SentryPurifier 1
+	MovePatrol = C
+	VoidSentryChronoBeam/SentryCampaignBase = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SentryPurifier 1
+	Attack = E
+	VoidSentryPhasingMode/SentryCampaignBase = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SlaynElemental
+	Attack = E
+	SlaynElementalGrabAOE/SlaynElemental = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spectre 1
+	MovePatrol = C
+	ReleaseMinion/Spectre = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 0
+	EvolveDevourerAoEDamage/Spire = D
+	EvolveMutaliskRapidRegeneration/Spire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 0
+	EvolveGuardianAttackRangeIncrease/Spire = E
+	zergflyerattack1 = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 1
+	EvolveDevourerAoEDamage/Spire = D
+	EvolveMutaliskRapidRegeneration/Spire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 2
+	EvolveDevourerAoEDamage/Spire = D
+	EvolveMutaliskRapidRegeneration/Spire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 3
+	EvolveDevourerAoEDamage/Spire = D
+	EvolveMutaliskRapidRegeneration/Spire = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Spire 3
+	EvolveGuardianAttackRangeIncrease/Spire = E
+	zergflyerattack1 = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Stalker = D
+	WarpInDarkTemplarChampion/SuperWarpGate = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHost
+	LocustLaunch/SwarmHost = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHost
+	HotSPressurizedGlands/SwarmHost = P
+	RapidIncubation/SwarmHost = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitA 0
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitA 1
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitABurrowed
+	HotSPressurizedGlands/SwarmHostSplitABurrowed = P
+	RapidIncubation/SwarmHostSplitABurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitARooted
+	HotSPressurizedGlands/SwarmHostSplitARooted = P
+	RapidIncubation/SwarmHostSplitARooted = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitB 0
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitB 1
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitBBurrowed
+	HotSPressurizedGlands/SwarmHostSplitBBurrowed = P
+	RapidIncubation/SwarmHostSplitBBurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmHostSplitBRooted
+	HotSPressurizedGlands/SwarmHostSplitBRooted = P
+	RapidIncubation/SwarmHostSplitBRooted = P
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/SwarmQueenEgg (card index 1) 3
+	SwarmQueenHydraliskImpaler/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/Viper
+	EvolveViperImprovedCastRange/Viper = R
+	FaceEmbrace/Viper = R,6
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidRift (card index 2)
+	Oracle/VoidRift = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidRift (card index 3)
+	Aberration/VoidRift = B
+	BroodLord/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidRift (card index 3)
+	Cancel = Z
+	Zergling/VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidRiftUnselectable (card index 2)
+	Oracle/VoidRiftUnselectable = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Banshee/VoidThrasher = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Banshee/VoidThrasherWalker = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/WarpGate (card index 0) 0
+	WarpInReplicant/WarpGate = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/WarpPrismGiant
+	Attack = E
+	PhasingMode/WarpPrismGiant = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/XelNagaConstruct
+	Attack = E
+	XelNagaShadowStep/XelNagaConstruct = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: alliedcommanders/ZaGara
+	BuildCreepTumor/ZaGara = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/CarrierAiur
+	Attack = E
+	RepairDrones/CarrierAiur = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/Flagship
+	CloakOnFlagship/Flagship = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/HugeSwarmQueen 3
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/NovaHero
+	GhostHoldFire/NovaHero = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/QueenMP
+	MovePatrol = C
+	QueenMPInfestCommandCenter/QueenMP = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/QueenMP
+	Attack = E
+	QueenMPEnsnare/QueenMP = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/Replicant
+	Attack = E
+	ReplicantReplicate/Replicant = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/SwarmQueenEgg (card index 1) 1
+	SwarmQueenHydraliskLurker/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/TitanMechAssault
+	MovePatrol = C
+	TitanMechGunShotCharge/TitanMechAssault = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/TitanMechAssault
+	Stop = F
+	TitanMechMissileShot/TitanMechAssault = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/VoidRift (card index 0)
+	ProtossBuild/VoidRift = B
+	TerranBuild/VoidRift = B
+	ZergBuild/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/VoidThrasherWalker (card index 0)
+	Stop = F
+	VoidThrasherLightningAoEExtra/VoidThrasherWalker = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Carrier/VoidThrasherWalker = C
+	Colossus/VoidThrasherWalker = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Banshee/VoidThrasherWalker = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: campaigncommon/Yeti
+	Charge/Yeti = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: libertystory/SCV (card index 0)
+	Cancel = Z
+	TerranBuildAdvanced/SCV = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: libertystory/SuperWarpGate (card index 0)
+	Carrier/SuperWarpGate = C
+	Colossus/SuperWarpGate = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: libertystory/SuperWarpGate (card index 0)
+	Phoenix/SuperWarpGate = X
+	Rally = X
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/BroodMother
+	BuildCreepTumor/BroodMother = D
+	DeepTunnel/BroodMother = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Bunker 0
+	Attack = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Bunker 1
+	Attack = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Bunker 2
+	Attack = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/CarrierTaldarim
+	Attack = E
+	RepairDrones/Carrier = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/GhostVulture
+	Attack = E
+	EMP/GhostVulture = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/GhostVulture
+	GhostHoldFire/GhostVulture = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HoverSiegeTank
+	Attack = E
+	HoverSiegeMode = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 00
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 03
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 05
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 07
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 09
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HugeSwarmQueen 10
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/HybridGeneral
+	HybridGeneralMindControl/HybridGeneral = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/LargeSwarmQueen 4
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Leviathan
+	BioPlasmidDischarge/Leviathan = B
+	SpawnBroodLord/Leviathan = B
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/PrimalTownHallUprooted
+	PrimalFlyer/PrimalTownHallUprooted = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/PrimalTownHallUprooted
+	PrimalBuildingRoot/PrimalTownHallUprooted = R
+	PrimalRoach/PrimalTownHallUprooted = R
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/PrimalTownHallUprooted
+	Cancel = Z
+	PrimalZergling/PrimalTownHallUprooted = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Reaper
+	Attack = E
+	SpiderMine/Reaper = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/SiegeTank
+	DeploySpiderMines/SiegeTank = R
+	SiegeMode = R
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 0
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 1
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 2
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 3
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 4
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 5
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Starport (card index 0) 6
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/SwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/SwarmQueenEgg (card index 1) 0
+	SwarmQueenHydraliskLurker/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/SwarmQueenEgg (card index 1) 2
+	SwarmQueenHydraliskImpaler/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/VoidThrasher (card index 1)
+	Carrier/VoidThrasher = C
+	Colossus/VoidThrasher = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/VoidThrasher (card index 1)
+	Banshee/VoidThrasher = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/Yagdra
+	Stop = F
+	YagdraFireball/Yagdra = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novacampaign/YetiMomma
+	Charge/YetiMomma = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Bunker
+	Attack = E
+	SpiderMine/Bunker = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/CarrierAiur
+	Attack = E
+	RepairDrones/CarrierAiur = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Ghost
+	CloakOnGhost/Ghost = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Ghost
+	GhostHoldFire/Ghost = X
+	WeaponsFree/Ghost = X
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/HoverHellbat
+	Attack = E
+	MorphToHoverHellion/HoverHellion = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/HybridBehemoth
+	ConsumeDNA/HybridBehemoth = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Karass
+	Attack = E
+	KarassPlasmaSurge/Karass = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/LargeSwarmQueen 2
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/MothershipAiur06
+	MovePatrol = C
+	PlanetCracker/MothershipAiur06 = C
+	PlanetCrackerOff/MothershipAiur06 = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Stargate (card index 1)
+	Scout/Stargate = T
+	UpgradeToStargateWarp/Stargate = T
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Starport (card index 0) 0
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Starport (card index 0) 1
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Starport (card index 0) 2
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Starport (card index 0) 3
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Starport (card index 0) 4
+	Liberator/Starport = 4
+	Wraith/Starport = 4
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Stalker = D
+	WarpInDarkTemplarChampion/SuperWarpGate = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/Tassadar
+	Feedback/Tassadar = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/VoidRift (card index 2)
+	Carrier/VoidRift = C
+	Colossus/VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/VoidRift (card index 2)
+	Oracle/VoidRift = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/VoidRiftUnselectable (card index 0)
+	ProtossBuild/VoidRiftUnselectable = B
+	TerranBuild/VoidRiftUnselectable = B
+	ZergBuild/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: novastoryassets/VoidThrasher (card index 0)
+	Stop = F
+	VoidThrasherLightningAoEExtra/VoidThrasher = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/HugeSwarmQueen 7
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/LargeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/Loki
+	Attack = E
+	MissilePods/Loki = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/MengskWraith
+	MovePatrol = C
+	WraithCloakOn/MengskWraith = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/SwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: swarmstory/SwarmQueenEgg (card index 1)
+	SwarmQueenHydraliskImpaler/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidmulti/DefilerMP
+	DefilerMPConsume/DefilerMP = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidmulti/GhostAlternate
+	GhostHoldFire/Ghost = X
+	WeaponsFree/Ghost = X
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/GhostLaserLines (card index 0)
+	GhostHoldFire/Ghost = X
+	WeaponsFree/Ghost = X
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/HugeSwarmQueen 0
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/HugeSwarmQueen 1
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/HugeSwarmQueen 5
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/Hybrid
+	ConsumeDNA/Hybrid = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/HydraliskDen
+	Cancel = Z
+	ImpalerDen/HydraliskDen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/LargeSwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/PrimalTownHall (card index 0)
+	PrimalFlyer/PrimalTownHall = F
+	Stop = F
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/PrimalTownHall (card index 0)
+	Cancel = Z
+	PrimalZergling/PrimalTownHall = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/PrologueZeratul
+	Attack = E
+	ShadowBlade/PrologueZeratul = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/ShadowOfTheVoidHybrid
+	ConsumeDNA/ShadowOfTheVoidHybrid = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/ShadowOfTheVoidZealot
+	Charge/ShadowOfTheVoidZealot = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidprologue/SwarmQueenEgg (card index 1) 0
+	SwarmQueenHydraliskLurker/SwarmQueenEgg = D
+	SwarmQueenRoach/SwarmQueenEgg = D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/CarrierTaldarim
+	Attack = E
+	RepairDrones/Carrier = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Carrier/Epilogue02VoidRift = C
+	Colossus/Epilogue02VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Banshee/Epilogue02VoidRift = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/Flagship
+	CloakOnFlagship/Flagship = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/HugeSwarmQueen 4
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/HugeSwarmQueen 6
+	Cancel = Z
+	SwarmQueenParasiticInvasion/HugeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/HybridReaver
+	ConsumeDNA/HybridReaver = C
+	MovePatrol = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/InfestedMedic
+	Attack = E
+	MedicHeal/InfestedMedic = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/MengskBC
+	DefensiveMatrix/MengskBC = D
+	YamatoGun = 4,D
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/MengskBC
+	Attack = E
+	MissilePods/MengskBC = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/SwarmQueen
+	Cancel = Z
+	SwarmQueenParasiticInvasion/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/VoidRiftUnselectable (card index 2)
+	Carrier/VoidRiftUnselectable = C
+	Colossus/VoidRiftUnselectable = C
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/VoidRiftUnselectable (card index 2)
+	Oracle/VoidRiftUnselectable = E
+	Zealot = E
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Aberration/VoidRiftUnselectable = B
+	BroodLord/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Cancel = Z
+	Zergling/VoidRiftUnselectable = Z
+
+[ERROR]: Conflict of hotkeys in race: T commandcard: voidstory/YagdraEggSmall
+	Cancel = Z
+	PrimalZergling/YagdraEggSmall = Z
+
 [ERROR]: Conflict of hotkeys in race: R commandcard: Coop/Protoss/Structures/Robotics Bay (Karax Commander)(not tested)
 	ResearchExtendedThermalLance/RoboticsBay = 2
 	ResearchReaverIncreasedScarabSplashRadius/RoboticsBay = 2
@@ -128,6 +2330,848 @@ Start conflict check (log file: ConflictCheck.log)
 [ERROR]: Conflict of hotkeys in race: R commandcard: WoL Campaign/Zerg/Units/Larva/General
 	Scourge/Larva = T
 	SwarmHostMP/Larva = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/BroodMother
+	MovePatrol = T
+	QueenBurstHeal/BroodMother = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/CommandCenter 2
+	UpgradeToPlanetaryFortress/CommandCenter = F
+	VespeneDrone/CommandCenter = F
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/CommandCenter 3
+	UpgradeToPlanetaryFortress/CommandCenter = F
+	VespeneDrone/CommandCenter = F
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/CycloneWreckage 1
+	LockOnUpgraded/Cyclone = C
+	SwannCommanderRebuild = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/DrakkenLaserDrillCoop 3
+	BrokenDrakkenLaserDrill/DrakkenLaserDrillCoop = R
+	ResearchDrakkenLaserDrillBFG/DrakkenLaserDrillCoop = R
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Drone (card index 0) 0
+	Cancel = Z
+	ZergBuildAdvanced/Drone = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 2
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 3
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 5
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 6
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 7
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/EngineeringBay 8
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Hatchery (card index 0) 0
+	BuildCreepTumor/Hatchery = C
+	Lair/Hatchery = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/HighTemplarShakuras 0
+	MovePatrol = T
+	PsiStorm/HighTemplarShakuras = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/HighTemplarShakuras 1
+	MovePatrol = T
+	PsiStorm/HighTemplarShakuras = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/HybridDominatorVoid (card index 0)
+	HybridDominatorPlasmaBlast/HybridDominatorVoid = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/HybridDominatorVoid (card index 0)
+	MovePatrol = T
+	PsiStorm/HybridDominatorVoid = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/HydraliskEvolved
+	HydraliskFrenzy/HydraliskEvolved = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/InfestationPit 0
+	HotSPressurizedGlands/InfestationPit = S
+	ResearchNeuralParasite/InfestationPit = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/InfestationPit 2
+	HotSPressurizedGlands/InfestationPit = S
+	ResearchNeuralParasite/InfestationPit = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	MindBolt/K5KerriganPsiStrike = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	MindBolt/K5KerriganPsiStrike = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	MindBolt/K5KerriganPsiStrike = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	MindBolt/K5KerriganPsiStrike = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Lair (card index 0) 1
+	BuildCreepTumor/Lair = C
+	Hive/Lair = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 03
+	Infestor/Larva = Q
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 05
+	Infestor/Larva = Q
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 08
+	Infestor/Larva = Q
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 09
+	Defiler/Larva = F
+	Roach/Larva = F
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 11
+	Defiler/Larva = F
+	Roach/Larva = F
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 13
+	Defiler/Larva = F
+	Roach/Larva = F
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 15
+	Scourge/Larva = T
+	SwarmHostMP/Larva = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Larva 16
+	Scourge/Larva = T
+	SwarmHostMP/Larva = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/NarudEpilogue
+	MoveHoldPosition = Q
+	VoidRift/NarudEpilogue = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/OverseerSiegeMode
+	MorphtoOverseerNormal/Overseer = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = S,C
+	Transfusion/Queen = S,C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = S,C
+	Transfusion/Queen = S,C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Queen (card index 0) 1
+	QueenBurstHeal/Queen = S,C
+	Transfusion/Queen = S,C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Queen (card index 0) 1
+	QueenBurstHeal/Queen = S,C
+	Transfusion/Queen = S,C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/RoboticsBay 1
+	ResearchExtendedThermalLance/RoboticsBay = 2
+	ResearchReaverIncreasedScarabSplashRadius/RoboticsBay = 2
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/RoboticsBay 2
+	ResearchExtendedThermalLance/RoboticsBay = 2
+	ResearchReaverIncreasedScarabSplashRadius/RoboticsBay = 2
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SentryAiur
+	MoveHoldPosition = Q
+	VoidSentryShieldRepair/SentryCampaignBase = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SentryPhasing
+	ResearchKaraxEnergyRegenUpgrade/SentryPurifier = S
+	VoidSentryMobileMode/SentryPurifier = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SlaynElemental
+	MoveHoldPosition = Q
+	SlaynElementalGrab/SlaynElemental = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHost
+	HotSPressurizedGlands/SwarmHost = P
+	RapidIncubation/SwarmHost = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitA 0
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitA 1
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitABurrowed
+	HotSPressurizedGlands/SwarmHostSplitABurrowed = P
+	RapidIncubation/SwarmHostSplitABurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitARooted
+	HotSPressurizedGlands/SwarmHostSplitARooted = P
+	RapidIncubation/SwarmHostSplitARooted = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitB 0
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitB 1
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitBBurrowed
+	HotSPressurizedGlands/SwarmHostSplitBBurrowed = P
+	RapidIncubation/SwarmHostSplitBBurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/SwarmHostSplitBRooted
+	HotSPressurizedGlands/SwarmHostSplitBRooted = P
+	RapidIncubation/SwarmHostSplitBRooted = P
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/TalDarimMothership
+	MovePatrol = T
+	WormholeTransit/TalDarimMothership = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Viper
+	EvolveViperImprovedCastRange/Viper = R
+	FaceEmbrace/Viper = R,2
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/Viper
+	EvolveViperAbductImprovedStun/Viper = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/VoidRift (card index 3)
+	Aberration/VoidRift = B
+	BroodLord/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/VoidRift (card index 3)
+	Cancel = Z
+	Zergling/VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/WarpPrismGiantPhasing
+	MovePatrol = T
+	TransportMode/WarpPrismGiant = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/XelNagaConstruct
+	EntropicBlast/XelNagaConstruct = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/XelNagaConstruct
+	MovePatrol = T
+	XelNagaConstructChaseBeam/XelNagaConstruct = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: alliedcommanders/ZaGara
+	MovePatrol = T
+	Transfusion/ZaGara = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/AmonAetherMawEpilogue03
+	AetherMawAetherStorm/AmonAetherMawEpilogue03 = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/Ball
+	MovePatrol = T
+	Taunt/Ball = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/Flagship
+	FlagshipTimeBomb/Flagship = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/NovaHero
+	MoveHoldPosition = Q
+	NovaWeaponCanisterRifleSnipe/NovaHero = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/NovaHero
+	Attack = W
+	NovaGadgetPulseGrenades/NovaHero = W
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/VoidRift (card index 0)
+	ProtossBuild/VoidRift = B
+	TerranBuild/VoidRift = B
+	ZergBuild/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/VoidThrasherWalker (card index 0)
+	KaiserWormScourgeMissile/VoidThrasherWalker = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/VoidThrasherWalker (card index 0)
+	MovePatrol = T
+	VoidThrasherLightningAoE/VoidThrasherWalker = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Carrier/VoidThrasherWalker = C
+	Colossus/VoidThrasherWalker = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 0
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 1
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 3
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 4
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 6
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel2/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/EngineeringBay 7
+	ResearchNeosteelFrame/EngineeringBay = A
+	TerranInfantryArmorLevel3/EngineeringBay = A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/Factory 1
+	Halt = Tab
+	Predator/Factory = Tab
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/MercenaryFortress
+	BunkerUnloadAll = R
+	SCV = R
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/SCV (card index 0)
+	Cancel = Z
+	TerranBuildAdvanced/SCV = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/Starport 1
+	BuildHercules/Starport = Tab
+	Halt = Tab
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: libertystory/SuperWarpGate (card index 0)
+	Carrier/SuperWarpGate = C
+	Colossus/SuperWarpGate = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/BroodMother
+	MovePatrol = T
+	QueenBurstHeal/BroodMother = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Bunker 0
+	Salvage/Bunker = S
+	StopBunker/Bunker = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 01
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 02
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 03
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 04
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 05
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 07
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 08
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 09
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 10
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 12
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 13
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 14
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 16
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 22
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 23
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 24
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 25
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 26
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 27
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 28
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 58
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 59
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 60
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 61
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 62
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 63
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 64
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 65
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 66
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 67
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 68
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 69
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 70
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 71
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 72
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 73
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 74
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Factory (card index 0) 75
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/HybridDominator
+	MovePatrol = T
+	PsiStorm/HybridDominator = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/HybridGeneral
+	HybridGeneralPhaseShift/HybridGeneral = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/HybridNemesis
+	HybridGeneralPhaseShift/HybridNemesis = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Leviathan
+	BioPlasmidDischarge/Leviathan = B
+	SpawnBroodLord/Leviathan = B
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/Leviathan
+	BioStasis/Leviathan = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/PitAlarak
+	AlarakMindBlast/PitAlarak = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/PitMalash
+	MoveHoldPosition = Q
+	PitMalashPsiShift/PitMalash = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/PrimalTownHallUprooted
+	PrimalBuildingRoot/PrimalTownHallUprooted = R
+	PrimalRoach/PrimalTownHallUprooted = R
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/PrimalTownHallUprooted
+	Cancel = Z
+	PrimalZergling/PrimalTownHallUprooted = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/SS_TerraTron
+	Attack = W
+	SS_TerraTronSawAttack/SS_Plane = W
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/SkyTank
+	MoveHoldPosition = Q
+	SkyTankLaserBeamFast/SkyTank = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/VoidThrasher (card index 1)
+	Carrier/VoidThrasher = C
+	Colossus/VoidThrasher = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novacampaign/WarfieldFortress
+	BunkerUnloadAll = R
+	SCV = R
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Barracks (card index 1)
+	Reaper/Barracks = S
+	Separatist/Barracks = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 00
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 01
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 02
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 03
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 04
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 05
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 06
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 08
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 09
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 10
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 11
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 12
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 13
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 14
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 15
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 16
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 17
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 18
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 19
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 20
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 21
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 30
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 31
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 32
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 33
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 34
+	Diamondback/Factory = 5
+	HellionTank/Factory = 5
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 60
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 61
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 62
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 63
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 64
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 65
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 66
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Factory (card index 0) 67
+	BuildCyclone/Factory = Q
+	Vulture/Factory = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Ghost
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Karass
+	MovePatrol = T
+	PsiStorm/Karass = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/MothershipAiur06
+	PlanetCracker/MothershipAiur06 = C
+	PlanetCrackerOff/MothershipAiur06 = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/NovaVulture
+	Attack = W
+	NovaGadgetPulseGrenades/NovaVulture = W
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/PitAlarak
+	AlarakMindBlast/PitAlarak = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/Tassadar
+	MovePatrol = T
+	PsiStorm/Tassadar = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/VoidRift (card index 2)
+	Carrier/VoidRift = C
+	Colossus/VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/VoidRiftUnselectable (card index 0)
+	ProtossBuild/VoidRiftUnselectable = B
+	TerranBuild/VoidRiftUnselectable = B
+	ZergBuild/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/VoidThrasher (card index 0)
+	KaiserWormScourgeMissile/VoidThrasher = Q
+	MoveHoldPosition = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: novastoryassets/VoidThrasher (card index 0)
+	MovePatrol = T
+	VoidThrasherLightningAoE/VoidThrasher = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: swarmstory/Spectre 1
+	CloakOff = S
+	Obliterate/Spectre = S
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidmulti/GhostAlternate
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidprologue/GhostLaserLines (card index 0)
+	GhostHoldFire/Ghost = Tab
+	WeaponsFree/Ghost = Tab
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidprologue/Infestor
+	InfestorConsumption/Infestor = A
+	NPSwarm/Infestor = S,A
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidprologue/Kerrigan
+	MovePatrol = T
+	OmegaStorm/Kerrigan = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidprologue/PrimalTownHall (card index 0)
+	Cancel = Z
+	PrimalZergling/PrimalTownHall = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidprologue/ShadowOfTheVoidHybridDominator
+	MovePatrol = T
+	PsiStorm/ShadowOfTheVoidHybridDominator = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Carrier/Epilogue02VoidRift = C
+	Colossus/Epilogue02VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/Flagship
+	FlagshipTimeBomb/Flagship = T
+	MovePatrol = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/KerriganChar
+	MovePatrol = T
+	OmegaStorm/KerriganChar = T
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/Monitor
+	MoveHoldPosition = Q
+	SquadSight/Monitor = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/PitMalash
+	MoveHoldPosition = Q
+	PitMalashPsiShift/PitMalash = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/RoguePurifierSupportDroneB
+	MoveHoldPosition = Q
+	VoidSentryShieldRepair/RoguePurifierSupportDroneB = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/SentryAiur
+	MoveHoldPosition = Q
+	VoidSentryShieldRepairDouble/SentryCampaignBase = Q
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/VoidRiftUnselectable (card index 2)
+	Carrier/VoidRiftUnselectable = C
+	Colossus/VoidRiftUnselectable = C
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Aberration/VoidRiftUnselectable = B
+	BroodLord/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Cancel = Z
+	Zergling/VoidRiftUnselectable = Z
+
+[ERROR]: Conflict of hotkeys in race: R commandcard: voidstory/YagdraEggSmall
+	Cancel = Z
+	PrimalZergling/YagdraEggSmall = Z
 
 [ERROR]: Conflict of hotkeys in race: Z commandcard: Coop/Terran/Units/Ghost
 	GhostHoldFire/Ghost = B
@@ -165,6 +3209,916 @@ Start conflict check (log file: ConflictCheck.log)
 	Scourge/Larva = A
 	SwarmHostMP/Larva = A
 
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Drone (card index 0) 0
+	Cancel = Z
+	ZergBuildAdvanced/Drone = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Hive (card index 0) 0
+	Larva = W,S,2,Q,H,V,A
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	BurrowDown = Q
+	MindBolt/K5KerriganPsiStrike = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 0
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	BurrowDown = Q
+	MindBolt/K5KerriganPsiStrike = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 1
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	BurrowDown = Q
+	MindBolt/K5KerriganPsiStrike = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 2
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	BurrowDown = Q
+	MindBolt/K5KerriganPsiStrike = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/K5KerriganPsiStrike 3
+	Attack = W
+	PsionicLift/K5KerriganPsiStrike = W, T
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Lair (card index 0) 0
+	Larva = W,S,2,Q,H,V,A
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/LargeSwarmQueen 2
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 00
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 01
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 02
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 03
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 04
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 05
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 06
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 07
+	Hydralisk/Larva = Q
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 07
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 08
+	Hydralisk/Larva = Q
+	QueenClassic = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 08
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 09
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 10
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 11
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 12
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 13
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 14
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 15
+	Scourge/Larva = A
+	SwarmHostMP/Larva = A
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 15
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 16
+	Scourge/Larva = A
+	SwarmHostMP/Larva = A
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 16
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Larva 17
+	Aberration/Larva = Y
+	Viper/Larva = Y
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/OrbitalCommand
+	Lift = B
+	OrbitalCommandCalldownSupplyDepot/OrbitalCommand = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Purifier
+	MoveHoldPosition = V
+	Vortex/Purifier = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Queen (card index 0) 0
+	EvolveToBrutalisk/Queen = B
+	QueenBurstHeal/Queen = G,B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Queen (card index 0) 0
+	QueenBurstHeal/Queen = G,B
+	Transfusion/Queen = G,H
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Queen (card index 0) 1
+	EvolveToBrutalisk/Queen = B
+	QueenBurstHeal/Queen = G,B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Queen (card index 0) 1
+	QueenBurstHeal/Queen = G,B
+	Transfusion/Queen = G,H
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Reaver
+	MovePatrol = A
+	ResearchReaverIncreasedScarabSplashRadius/Reaver = A
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/RoachCorpser
+	MoveHoldPosition = V
+	Ravager/RoachCorpser = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/RoachVile
+	MoveHoldPosition = V
+	Ravager/RoachVile = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/RoboticsBay 2
+	ResearchExtendedThermalLance/RoboticsBay = S
+	ResearchReaverIncreasedScarabCount/RoboticsBay = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/RoboticsBay 3
+	ResearchExtendedThermalLance/RoboticsBay = S
+	ResearchReaverIncreasedScarabCount/RoboticsBay = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Spire 2
+	GreaterSpireViper/Spire = G
+	zergflyerarmor1 = G
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/Spire 3
+	GreaterSpireViper/Spire = G
+	zergflyerarmor1 = G
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHost
+	HotSPressurizedGlands/SwarmHost = P
+	RapidIncubation/SwarmHost = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitA 0
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitA 1
+	HotSPressurizedGlands/SwarmHostSplitA = P
+	RapidIncubation/SwarmHostSplitA = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitABurrowed
+	HotSPressurizedGlands/SwarmHostSplitABurrowed = P
+	RapidIncubation/SwarmHostSplitABurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitARooted
+	HotSPressurizedGlands/SwarmHostSplitARooted = P
+	RapidIncubation/SwarmHostSplitARooted = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitB 0
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitB 1
+	HotSPressurizedGlands/SwarmHostSplitB = P
+	RapidIncubation/SwarmHostSplitB = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitBBurrowed
+	HotSPressurizedGlands/SwarmHostSplitBBurrowed = P
+	RapidIncubation/SwarmHostSplitBBurrowed = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/SwarmHostSplitBRooted
+	HotSPressurizedGlands/SwarmHostSplitBRooted = P
+	RapidIncubation/SwarmHostSplitBRooted = P
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/TalDarimMothership
+	MoveHoldPosition = V
+	Vortex/TalDarimMothership = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/VoidRift (card index 3)
+	Aberration/VoidRift = B
+	BroodLord/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/VoidRift (card index 3)
+	Cancel = Z
+	Zergling/VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: alliedcommanders/ZaGara
+	MorphMorphalisk/ZaGara = V
+	MoveHoldPosition = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/DisruptorPhased
+	MoveHoldPosition = V
+	PurificationNova/DisruptorPhased = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/Factory (card index 0) 2
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/Factory (card index 0) 3
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/Factory (card index 0) 6
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/Factory (card index 0) 7
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/Factory (card index 0) 8
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/HerculesLanderFlying
+	BunkerLoad = B
+	Land = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/LargeSwarmQueen 1
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/LargeSwarmQueen 2
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/NovaHero
+	Attack = W
+	NovaGadgetPulseGrenades/NovaHero = W
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/TitanMechAssault
+	FighterMode = G
+	TitanMechGunShot/TitanMechAssault = G
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/VoidRift (card index 0)
+	ProtossBuild/VoidRift = B
+	TerranBuild/VoidRift = B
+	ZergBuild/VoidRift = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Carrier/VoidThrasherWalker = C
+	Colossus/VoidThrasherWalker = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: campaigncommon/VoidThrasherWalker (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasherWalker = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: libertystory/SCV (card index 0)
+	Cancel = Z
+	TerranBuildAdvanced/SCV = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: libertystory/SuperWarpGate (card index 0)
+	Blink/SuperWarpGate = B
+	DarkTemplar = Q,B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: libertystory/SuperWarpGate (card index 0)
+	Carrier/SuperWarpGate = C
+	Colossus/SuperWarpGate = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Bunker 0
+	Salvage/Bunker = S
+	StopBunker/Bunker = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 02
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 03
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 04
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 05
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 12
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 13
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 17
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 22
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 23
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 24
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 29
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 30
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 31
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 32
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 33
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 34
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 37
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 38
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 42
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 43
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 44
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 49
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 50
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 51
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 53
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 57
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 58
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 64
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 65
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 66
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 67
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 68
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Factory (card index 0) 75
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/HellionTank
+	MorphToHellion/Hellion = G
+	Stim = G
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/HybridDominator
+	MoveHoldPosition = V
+	PsionicShockwave/HybridDominator = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/InfestedBunker
+	BunkerLoad = B
+	InfestedAbomination/InfestedBunker = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/LargeSwarmQueen 2
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/LargeSwarmQueen 4
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Leviathan
+	BioPlasmidDischarge/Leviathan = B
+	SpawnBroodLord/Leviathan = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/PrimalTownHallUprooted
+	PrimalBuildingRoot/PrimalTownHallUprooted = R
+	PrimalRoach/PrimalTownHallUprooted = R
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/PrimalTownHallUprooted
+	Cancel = Z
+	PrimalZergling/PrimalTownHallUprooted = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/SS_TerraTron
+	Attack = W
+	SS_TerraTronSawAttack/SS_Plane = W
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 0
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 1
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 2
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 3
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 4
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 4
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 5
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 5
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 6
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/Starport (card index 0) 6
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/SwarmQueen 1
+	Cancel = Z
+	GrowLargeQueen/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/VoidSeekerCrashed
+	MoveHoldPosition = V
+	PhaseMineBlast/VoidSeekerCrashed = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/VoidThrasher (card index 1)
+	Carrier/VoidThrasher = C
+	Colossus/VoidThrasher = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novacampaign/VoidThrasher (card index 1)
+	Cancel = Z
+	Zergling/VoidThrasher = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Barracks (card index 1)
+	Reaper/Barracks = S
+	Separatist/Barracks = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 00
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 01
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 02
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 03
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 10
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 11
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 14
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 15
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 16
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 17
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 22
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 23
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 24
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 25
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 26
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 30
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 31
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 32
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 35
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 38
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 41
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 42
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 43
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 46
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 48
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 49
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 50
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 51
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 54
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 55
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 56
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 57
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 60
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 61
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 62
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 63
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 64
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 66
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Factory (card index 0) 67
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Ghost
+	GhostHoldFire/Ghost = B
+	WeaponsFree/Ghost = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/InfestedBunker
+	BunkerLoad = B
+	InfestedAbomination/InfestedBunker = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/LargeSwarmQueen 1
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/LargeSwarmQueen 2
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/MothershipAiur06
+	PlanetCracker/MothershipAiur06 = C
+	PlanetCrackerOff/MothershipAiur06 = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/NovaVulture
+	Attack = W
+	NovaGadgetPulseGrenades/NovaVulture = W
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/RoguePurifier
+	MovePatrol = A
+	RepairSupportDroneA/RoguePurifier = A
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 0
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 1
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 2
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 2
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 3
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 3
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 4
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/Starport (card index 0) 4
+	Liberator/Starport = S
+	Wraith/Starport = S
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/SuperWarpGate (card index 1)
+	Oracle/SuperWarpGate = E
+	Probe/SuperWarpGate = E
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/VoidRift (card index 2)
+	Carrier/VoidRift = C
+	Colossus/VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/VoidRiftUnselectable (card index 0)
+	ProtossBuild/VoidRiftUnselectable = B
+	TerranBuild/VoidRiftUnselectable = B
+	ZergBuild/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: novastoryassets/VoidSeeker
+	MoveHoldPosition = V
+	PhaseMineBlast/VoidSeeker = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: swarmstory/Factory (card index 0) 0
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: swarmstory/LargeSwarmQueen 1
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: swarmstory/Starport (card index 0) 0
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: swarmstory/Starport (card index 0) 1
+	MengskUnits/Starport = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: swarmstory/SwarmQueen
+	Cancel = Z
+	GrowLargeQueen/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidmulti/Carrier
+	GravitonCatapult/Carrier = G
+	ReleaseInterceptors/Carrier = G
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidmulti/GhostAlternate
+	GhostHoldFire/Ghost = B
+	WeaponsFree/Ghost = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/ColonistShip
+	BunkerLoad = B
+	Lift = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/Factory (card index 0)
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/GhostLaserLines (card index 0)
+	GhostHoldFire/Ghost = B
+	WeaponsFree/Ghost = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/LargeSwarmQueen
+	Cancel = Z
+	GrowHugeQueen/LargeSwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/Maar
+	MoveHoldPosition = V
+	PsionicShockwave/Maar = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/PrimalTownHall (card index 0)
+	Cancel = Z
+	PrimalZergling/PrimalTownHall = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/PrologueZeratul
+	MoveHoldPosition = V
+	PrologueVoidArmor/PrologueZeratul = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidprologue/ShadowOfTheVoidHybridDominator
+	MoveHoldPosition = V
+	PsionicShockwave/ShadowOfTheVoidHybridDominator = V
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Carrier/Epilogue02VoidRift = C
+	Colossus/Epilogue02VoidRift = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Epilogue02VoidRift (card index 1)
+	Cancel = Z
+	Zergling/Epilogue02VoidRift = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 04
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 05
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 06
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 07
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 08
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 13
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Factory (card index 0) 14
+	MengskUnits/Factory = M
+	Rally = M
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/Monitor
+	SentryTaldarimForceField/Monitor = Q
+	SquadSight/Monitor = Q
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/SwarmQueen
+	Cancel = Z
+	GrowLargeQueen/SwarmQueen = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/VoidRiftUnselectable (card index 2)
+	Carrier/VoidRiftUnselectable = C
+	Colossus/VoidRiftUnselectable = C
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Aberration/VoidRiftUnselectable = B
+	BroodLord/VoidRiftUnselectable = B
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/VoidRiftUnselectable (card index 3)
+	Cancel = Z
+	Zergling/VoidRiftUnselectable = Z
+
+[ERROR]: Conflict of hotkeys in race: Z commandcard: voidstory/YagdraEggSmall
+	Cancel = Z
+	PrimalZergling/YagdraEggSmall = Z
+
 ----------------------------
-Finished (conflict check) - ERRORs: 41 
+Finished (conflict check) - ERRORs: 1027 
 ============================
