@@ -1,6 +1,10 @@
 ============================
 Start Check defaults (log file: Defaults.log)
 ----------------------------
+[WARN]: no default CommanderAbility0
+[WARN]: no default CommanderAbility1
+[WARN]: no default CommanderAbility2
+[WARN]: no default CommanderAbility3
 [WARN]: no default ActivateIbikisCannon/PlanetaryFortress
 [WARN]: no default Aggressive/LurkerMPBurrowed
 [WARN]: no default Apocalypse/K5Kerrigan
@@ -52,13 +56,18 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default Frostbat/Barracks
 [WARN]: no default FungalGrowth/Infestor2
 [WARN]: no default Gateway/Harvester
+[WARN]: no default GhostHoldFire/NovaHero
 [WARN]: no default Glare/Oracle
+[WARN]: no default GravitonCatapult/Carrier
 [WARN]: no default Guardian/Mutalisk
 [WARN]: no default GuardianShield/Sentry2
 [WARN]: no default Hallucination/Sentry2
 [WARN]: no default Hallucination2/Voranor
 [WARN]: no default Heal/Medivac2
 [WARN]: no default HellfireThrusters/StarportTechLab
+[WARN]: no default HerculesLoad/HerculesCrashing
+[WARN]: no default HerculesUnloadAll/HerculesCrashing
+[WARN]: no default HeroNukeCalldown/NovaHero
 [WARN]: no default HighTemplarHallucination/Nexus
 [WARN]: no default HighTemplarHallucination/Voranor
 [WARN]: no default IgniteAfterburner/Medivac
@@ -74,20 +83,28 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default KhalaShockwave/Immortal
 [WARN]: no default LaunchNullWard/NullSphere
 [WARN]: no default LockdownRound/Ghost
+[WARN]: no default LocustLaunch/SwarmHost
 [WARN]: no default Lurker/Hydralisk
 [WARN]: no default LurkerBurrowDown
 [WARN]: no default Matrix/Medic
 [WARN]: no default MeliakBlinkBTN/Meliak
 [WARN]: no default MorphMorphalisk/BroodMother
 [WARN]: no default MorphMorphalisk/Queen2
+[WARN]: no default MorphToGuardian/Mutalisk
 [WARN]: no default MorphtoDefiler/Larva
-[WARN]: no default MorphtoDevourer/Mutalisk
 [WARN]: no default MorphtoRoach/Larva
 [WARN]: no default MoveChampions
 [WARN]: no default MutateintoDefilerMound/Drone
+[WARN]: no default MutatorWorkerSleep/Drone
+[WARN]: no default MutatorWorkerSleep/Probe
+[WARN]: no default MutatorWorkerSleep/SCV
 [WARN]: no default NerveJam/ScienceVessel
 [WARN]: no default NeuralParasite/Infestor2
 [WARN]: no default Nexus/Harvester
+[WARN]: no default NovaGadgetPulseGrenades/NovaHero
+[WARN]: no default NovaGadgetPulseGrenades/NovaVulture
+[WARN]: no default NovaWeaponCanisterRifleSnipe/NovaHero
+[WARN]: no default NovaWeaponCanisterRifleSnipe/NovaVulture
 [WARN]: no default NurturingSwarm/Queen
 [WARN]: no default Overcharge/OrbitalCommand
 [WARN]: no default Passive
@@ -126,6 +143,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ResearchPiercingRockets/StarportTechLab
 [WARN]: no default ResearchPlasmaCharge/RoboticsBay
 [WARN]: no default ResearchRecall/ArbiterTribunal
+[WARN]: no default ResearchSeismicSpinesAbathur/ImpalerDen
 [WARN]: no default ResearchSingularityCharge2/CyberneticsCore
 [WARN]: no default ResearchSpiderMines/FactoryTechLab
 [WARN]: no default ResearchStrikeCannons/FactoryTechReactor
@@ -138,6 +156,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default RoboticsFacility/Harvester
 [WARN]: no default RogueGhostCloak/Spectre
 [WARN]: no default SJHyperionBlink/Battlecruiser
+[WARN]: no default Separatist/Barracks
 [WARN]: no default SlivanPuke/Devourer
 [WARN]: no default SpawnBanelings/K5Kerrigan
 [WARN]: no default StalkerHallucination/Nexus
@@ -198,24 +217,23 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default WarpinArbiterTribunal/Probe
 [WARN]: no default WarpinDragoon/Gateway
 [WARN]: no default WarpinObservatory/Probe
+[WARN]: no default WeaponsFree/NovaHero
 [WARN]: no default WormholeTransit/Predator
 [WARN]: no default ZealotHallucination/Nexus
 [WARN]: no default ZealotHallucination/Voranor
 [WARN]: no default hydraliskspeed/LurkerDen
-[ERROR]: no default EvolveAdaptivePlating/GreaterRoachWarren
 [ERROR]: no default EvolveAdrenalineBoost/EvolutionChamber
-[ERROR]: no default EvolveGlialRegeneration/GreaterRoachWarren
-[ERROR]: no default EvolveHydriodicBile/GreaterRoachWarren
-[ERROR]: no default EvolveTunnelingClaws/GreaterRoachWarren
+[ERROR]: no default EvolveDevourerAoEDamage/GreaterSpire
+[ERROR]: no default EvolveDevourerAoEDamage/Spire
 [ERROR]: no default GreaterRoachWarren/RoachWarren
 [ERROR]: no default Lurker/HydraliskImpaler
-[ERROR]: no default MorphToGuardian/Mutalisk
 [ERROR]: no default ResearchCarapaceRankOne/EvolutionChamber
 [ERROR]: no default ResearchLocustNest/EvolutionChamber
 [ERROR]: no default ResearchSpikeBurstRankOne/EvolutionChamber
 [ERROR]: no default ResearchStabRankOne/EvolutionChamber
 [ERROR]: no default SpawnLocustNest/CreepTumorBurrowed
 [ERROR]: no default SpawnToxicNest/CreepTumorBurrowed
+[ERROR]: no default Transfusion/EvolutionChamber
 ----------------------------
-Finished (Check defaults) - WARNs: 201 ERRORs: 14 
+Finished (Check defaults) - WARNs: 221 ERRORs: 12 
 ============================

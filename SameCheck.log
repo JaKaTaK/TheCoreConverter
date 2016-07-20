@@ -13,12 +13,8 @@ Start same check (log file: SameCheck.log)
 	TerranShipWeaponsUltraCapacitorsLevel3/Armory = G
 
 [ERROR]: Mismatched values in race: P
-	GhostHoldFire/Ghost = Tab
-	SpectreHoldFire/Spectre = N
-
-[ERROR]: Mismatched values in race: P
-	HeroNukeCalldown/Nova = J
-	HeroNukeCalldown/Tosh = J
+	HeroNukeCalldown/Nova = X
+	HeroNukeCalldown/Tosh = X
 	NukeCalldown/Ghost = X
 	OdinNukeCalldown/Odin = J
 	SpectreNukeCalldown/Spectre = J
@@ -29,23 +25,10 @@ Start same check (log file: SameCheck.log)
 	Snipe/Ghost = V,B
 
 [ERROR]: Mismatched values in race: P
-	AutoTurret/Raven = 4,X
-	BuildAutoTurret/Raven = 4
-
-[ERROR]: Mismatched values in race: P
-	BuildPointDefenseDrone/Raven = D,V
-	PointDefenseDrone/Raven = D,B
-
-[ERROR]: Mismatched values in race: P
 	ResearchShapedBlast/FactoryTechLab = H
 	ResearchShapedBlast/FactoryTechReactor = E
 	ResearchSiegeTech/FactoryTechLab = E
 	ResearchSiegeTech/FactoryTechReactor = E
-
-[ERROR]: Mismatched values in race: P
-	NPSwarm/Infestor = 4,B
-	NeuralParasite/Infestor = 4,B
-	NeuralParasite/Infestor2 = 4
 
 [ERROR]: Mismatched values in race: P
 	MorphToSwarmHostSplitA/Larva = X
@@ -54,7 +37,7 @@ Start same check (log file: SameCheck.log)
 
 [ERROR]: Mismatched values in race: P
 	MorphToHotSNoxious/Larva = J
-	MorphToHotSTorrasque/Larva = J
+	MorphToHotSTorrasque/Larva = 6
 	Ultralisk/Larva = 6
 
 [ERROR]: Mismatched values in race: P
@@ -65,19 +48,6 @@ Start same check (log file: SameCheck.log)
 	HydraliskFrenzy/Hydralisk = E
 	HydraliskFrenzy/HydraliskImpaler = P
 	HydraliskFrenzy/HydraliskLurker = P
-
-[ERROR]: Mismatched values in race: P
-	BroodLord/Corruptor = D
-	BroodLord/MutaliskBroodlord = 4
-	Viper/MutaliskViper = 4
-
-[ERROR]: Mismatched values in race: P
-	BlindingCloud/Viper = D,N
-	DisablingCloud/Viper = D
-
-[ERROR]: Mismatched values in race: P
-	ViperConsume/Viper = V
-	ViperConsumption/Viper = 4
 
 [ERROR]: Mismatched values in race: P
 	QueenBurstHeal/Queen = V
@@ -107,24 +77,8 @@ Start same check (log file: SameCheck.log)
 	Salvage/PerditionTurret = V
 
 [ERROR]: Mismatched values in race: P
-	SummonNydusWorm/NydusNetwork = G
-	ZagaraVoidCoopNydusWorm/NydusNetwork = 
-
-[ERROR]: Mismatched values in race: P
-	Queen = V
-	QueenCoop = 
-
-[ERROR]: Mismatched values in race: P
-	BuildCreepTumor/Queen = 4
-	BuildCreepTumor/QueenCoop = 
-
-[ERROR]: Mismatched values in race: P
-	MorphMorphalisk/Queen = E,J
-	MorphMorphalisk/QueenCoop = V
-
-[ERROR]: Mismatched values in race: P
 	Transfusion/Queen = V,B
-	Transfusion/QueenCoop = 
+	Transfusion/QueenCoop = V
 
 [ERROR]: Mismatched values in race: T
 	ProtossAirWeaponsLevel1/CyberneticsCore = E
@@ -145,18 +99,10 @@ Start same check (log file: SameCheck.log)
 	NanoRepair/ScienceVessel = 3
 
 [ERROR]: Mismatched values in race: T
-	BuildScienceVessel/Starport = F
-	Raven/Starport = 5
-
-[ERROR]: Mismatched values in race: T
 	Hive/Lair = T
-	ImpalerDen/HydraliskDen = Z
+	ImpalerDen/HydraliskDen = T
 	Lair/Hatchery = T
 	LurkerDen/HydraliskDen = 4
-
-[ERROR]: Mismatched values in race: T
-	AutoTurret/Raven = D,T
-	BuildAutoTurret/Raven = D,Z
 
 [ERROR]: Mismatched values in race: T
 	ResearchShapedBlast/FactoryTechLab = F
@@ -165,33 +111,12 @@ Start same check (log file: SameCheck.log)
 	ResearchSiegeTech/FactoryTechReactor = R
 
 [ERROR]: Mismatched values in race: T
-	Baneling/HotSRaptor = R
-	Baneling/HotSSwarmling = R
-	Baneling/Zergling = D
-	Baneling/Zergling2 = R
-	MorphtoHunter/HotSRaptor = R
-	MorphtoHunter/HotSSwarmling = R
-	MorphtoSplitterling/HotSRaptor = R
-	MorphtoSplitterling/HotSSwarmling = R
-
-[ERROR]: Mismatched values in race: T
 	FungalGrowth/Infestor = R
 	FungalGrowth/Infestor2 = R,6
 
 [ERROR]: Mismatched values in race: T
 	Hallucination/Sentry = Z,3
 	Hallucination/Sentry2 = Z
-
-[ERROR]: Mismatched values in race: T
-	NPSwarm/Infestor = T
-	NeuralParasite/Infestor = 3,6
-	NeuralParasite/Infestor2 = Z,3
-
-[ERROR]: Mismatched values in race: T
-	Baneling/HotSRaptor = R
-	Baneling/HotSSwarmling = R
-	Baneling/Zergling = D
-	Baneling/Zergling2 = R
 
 [ERROR]: Mismatched values in race: T
 	HyperionVoidCoopYamatoCannon/HyperionVoidCoop = 4,D
@@ -205,7 +130,7 @@ Start same check (log file: SameCheck.log)
 
 [ERROR]: Mismatched values in race: T
 	MorphToHotSNoxious/Larva = 6
-	MorphToHotSTorrasque/Larva = 6
+	MorphToHotSTorrasque/Larva = X
 	Ultralisk/Larva = X
 
 [ERROR]: Mismatched values in race: T
@@ -213,8 +138,9 @@ Start same check (log file: SameCheck.log)
 	Viper/Larva = T
 
 [ERROR]: Mismatched values in race: T
-	Impaler/HydraliskImpaler = 3
-	Lurker/HydraliskLurker = D
+	QueenBurstHeal/Queen = T,3
+	Transfusion/Queen = 3,Z
+	Transfusion/Queen2 = 3,Z
 
 [ERROR]: Mismatched values in race: T
 	GreaterSpire/Spire = D
@@ -226,13 +152,6 @@ Start same check (log file: SameCheck.log)
 	VoidSentryBlackHole/SOAMothershipv4 = D
 	Vortex/Artanis = D
 	Vortex/Mothership = D
-
-[ERROR]: Mismatched values in race: T
-	Charge/ShadowOfTheVoidZealot = C
-	Charge/Zealot = R
-	Charge/ZealotAiur = R
-	Charge/ZealotPurifier = R
-	VoidZealotShadowCharge/ZealotShakuras = R
 
 [ERROR]: Mismatched values in race: T
 	SummonNydusWorm/NydusNetwork = E
@@ -260,11 +179,6 @@ Start same check (log file: SameCheck.log)
 	ProtossAirArmorLevel1/CyberneticsCore = R
 	TerranShipPlatingLevel1/Armory = F
 	zergflyerarmor1 = R
-
-[ERROR]: Mismatched values in race: R
-	NovaSnipe/Nova = 2,6
-	Obliterate/Spectre = S
-	Snipe/Ghost = 2,6
 
 [ERROR]: Mismatched values in race: R
 	Hive/Lair = C
@@ -321,10 +235,10 @@ Start same check (log file: SameCheck.log)
 	TerranShipWeaponsUltraCapacitorsLevel3/Armory = W
 
 [ERROR]: Mismatched values in race: Z
-	BonesHeal/Stetmann = Y
+	BonesHeal/Stetmann = H
 	Heal/Medivac = H
-	MedicHeal/Medic = Y
-	MercMedicHeal/MercMedic = Y
+	MedicHeal/Medic = H
+	MercMedicHeal/MercMedic = H
 	NanoRepair/ScienceVessel = Y
 
 [ERROR]: Mismatched values in race: Z
@@ -337,7 +251,7 @@ Start same check (log file: SameCheck.log)
 
 [ERROR]: Mismatched values in race: Z
 	HeroNukeCalldown/Nova = H
-	HeroNukeCalldown/Tosh = B
+	HeroNukeCalldown/Tosh = H
 	NukeCalldown/Ghost = H
 	OdinNukeCalldown/Odin = B
 	SpectreNukeCalldown/Spectre = B
@@ -359,18 +273,13 @@ Start same check (log file: SameCheck.log)
 	FungalGrowth/Infestor2 = G,B
 
 [ERROR]: Mismatched values in race: Z
-	Heal/Medivac = H
-	Heal/Medivac2 = Y
-
-[ERROR]: Mismatched values in race: Z
-	HyperionVoidCoopYamatoCannon/HyperionVoidCoop = Y
-	SJHyperionYamato/SJHyperion = G,S
-	YamatoGun = S
-
-[ERROR]: Mismatched values in race: Z
 	MorphToHotSNoxious/Larva = Tab
-	MorphToHotSTorrasque/Larva = Tab
+	MorphToHotSTorrasque/Larva = 1
 	Ultralisk/Larva = 1
+
+[ERROR]: Mismatched values in race: Z
+	Aberration/Larva = Tab
+	Viper/Larva = Y
 
 [ERROR]: Mismatched values in race: Z
 	BurrowHydraliskImpalerUp = G,N
@@ -380,11 +289,7 @@ Start same check (log file: SameCheck.log)
 	LurkerBurrowUp = G
 
 [ERROR]: Mismatched values in race: Z
-	Impaler/HydraliskImpaler = S
-	Lurker/HydraliskLurker = G
-
-[ERROR]: Mismatched values in race: Z
-	QueenBurstHeal/Queen = G,B
+	QueenBurstHeal/Queen = G,H
 	Transfusion/Queen = G,H
 	Transfusion/Queen2 = G,B
 
@@ -400,18 +305,6 @@ Start same check (log file: SameCheck.log)
 	Vortex/Artanis = 2
 	Vortex/Mothership = 2
 
-[ERROR]: Mismatched values in race: Z
-	HyperionVoidCoopHyperjump/HyperionVoidCoop = Q
-	Hyperjump/Battlecruiser = 2
-	HyperjumpHercules/Hercules = 2
-
-[ERROR]: Mismatched values in race: Z
-	Charge/ShadowOfTheVoidZealot = C
-	Charge/Zealot = G
-	Charge/ZealotAiur = G
-	Charge/ZealotPurifier = G
-	VoidZealotShadowCharge/ZealotShakuras = G
-
 ----------------------------
-Finished (same check) - ERRORs: 81 
+Finished (same check) - ERRORs: 59 
 ============================

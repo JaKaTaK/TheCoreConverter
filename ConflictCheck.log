@@ -1,170 +1,22 @@
 ============================
 Start conflict check (log file: ConflictCheck.log)
 ----------------------------
-[ERROR]: Conflict of hotkeys in race: P commandcard: Coop/Protoss/Structures/Robotics Bay (Karax Commander)(not tested)
-	ResearchBarrier/RoboticsBay = 4
-	ResearchExtendedThermalLance/RoboticsBay = 4
+[ERROR]: Conflict of hotkeys in race: P commandcard: Data\HotkeyData Nova Campaign/Terran/Units/Hellion
+	MorphToHellion/Hellion = 4
+	Stim = 4
 
-[ERROR]: Conflict of hotkeys in race: P commandcard: Coop/Terran/Units/Ghost
-	GhostHoldFire/Ghost = Tab
-	WeaponsFree/Ghost = Tab
+[ERROR]: Conflict of hotkeys in race: T commandcard: Data\HotkeyData Nova Campaign/Terran/Units/Hellion
+	MorphToHellionTank/Hellion = R
+	Stim = R
 
-[ERROR]: Conflict of hotkeys in race: P commandcard: Coop/Zerg Story/Units/Scourge/Building Attack Enabled
-	Attack = G
-	DisableBuildingAttackScourge/Scourge = G
+[ERROR]: Conflict of hotkeys in race: R commandcard: Data\HotkeyData Nova Campaign/Terran/Units/Hellion
+	MorphToHellionTank/Hellion = F
+	Stim = F
 
-[ERROR]: Conflict of hotkeys in race: P commandcard: Coop/Zerg/Units/Overlord/General (Creeping)
-	BunkerLoad = V
-	StopGenerateCreep/Overlord = V
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: HotS Campaign/Zerg/Units/Infestor
-	InfestorConsumption/Infestor = 4
-	NPSwarm/Infestor = 4,B
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: LotV Campaign/Terran/Structures/Factory/General
-	Goliath/Factory = E
-	Vulture/Factory = E
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: LotV Multiplayer/Terran/Units/Ghost
-	GhostHoldFire/Ghost = Tab
-	WeaponsFree/Ghost = Tab
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: LotV Prologue/Protoss Story/Units/Zeratul (LotV Prologue)
-	ShadowBlade/PrologueZeratul = E
-	ZeratulBlink/PrologueZeratul = E
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: LotV Prologue/Terran/Structures/Factory/AI Mess 01
-	Goliath/Factory = E
-	Vulture/Factory = E
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: WoL Campaign/Terran/Structures/Factory/General
-	Goliath/Factory = E
-	Vulture/Factory = E
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: WoL Campaign/Terran/Structures/Starport/General
-	Banshee/Starport = B
-	BuildHercules/Starport = B
-
-[ERROR]: Conflict of hotkeys in race: P commandcard: WoL Campaign/Terran/Structures/Starport/General
-	Medivac/Starport = E
-	Wraith/Starport = E
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: Coop/Terran/Units/Ghost
-	GhostHoldFire/Ghost = X
-	WeaponsFree/Ghost = X
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: Coop/Zerg/Units/Overlord/General (Creeping)
-	Cancel = Z
-	StopGenerateCreep/Overlord = Z
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: Coop/Zerg/Units/Overseer
-	Attack = E
-	MorphtoOverseerSiege/Overseer = E
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: Left2Die/Terran Story/Units/Hammer Securities (Marauder Merc)
-	JackhammerConcussionGrenade/HammerSecurity = C
-	MovePatrol = C
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Campaign/Zerg Story/Units/Kerrigan/Kerrigan - Void
-	Cancel = Z
-	WildMutation/KerriganVoid = Z
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Multiplayer/Terran/Structures/Barracks/General
-	Halt = T
-	Lift = T
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Multiplayer/Terran/Structures/Command Center/General
-	Halt = T
-	Lift = T
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Multiplayer/Terran/Units/Ghost
-	GhostHoldFire/Ghost = X
-	WeaponsFree/Ghost = X
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Prologue/Protoss Story/Units/Zeratul (LotV Prologue)
-	Attack = E
-	ShadowBlade/PrologueZeratul = E
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: LotV Prologue/Protoss/Units/Shadow of the Void (Zealot)
-	Charge/ShadowOfTheVoidZealot = C
-	MovePatrol = C
-
-[ERROR]: Conflict of hotkeys in race: T commandcard: WoL Campaign/Terran Story/Units/Jackson's Revenge
-	MissilePods/DukesRevenge = 4
-	YamatoGun = 4,D
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: Coop/Protoss/Structures/Robotics Bay (Karax Commander)(not tested)
-	ResearchExtendedThermalLance/RoboticsBay = 2
-	ResearchReaverIncreasedScarabSplashRadius/RoboticsBay = 2
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: Coop/Terran/Units/Ghost
-	GhostHoldFire/Ghost = Tab
-	WeaponsFree/Ghost = Tab
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: Coop/Zerg/Units/Overseer
-	MorphtoOverseer/Overseer = T
-	MovePatrol = T
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: HotS Campaign/Terran/Structures/Starport/General
-	CampaignVehicles = A
-	Lift = A
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: HotS Campaign/Terran/Structures/Starport/General (non-constructing)
-	CampaignVehicles = A
-	Lift = A
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: HotS Campaign/Zerg/Units/Infestor
-	InfestorConsumption/Infestor = A
-	NPSwarm/Infestor = S,A
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: LotV Campaign/Terran Story/Units/Spectre/Cloaked
-	CloakOff = S
-	Obliterate/Spectre = S
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: LotV Multiplayer/Terran/Units/Ghost
-	GhostHoldFire/Ghost = Tab
-	WeaponsFree/Ghost = Tab
-
-[ERROR]: Conflict of hotkeys in race: R commandcard: WoL Campaign/Zerg/Units/Larva/General
-	Scourge/Larva = T
-	SwarmHostMP/Larva = T
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: Coop/Terran/Units/Ghost
-	GhostHoldFire/Ghost = B
-	WeaponsFree/Ghost = B
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: HotS Campaign/Terran/Structures/Factory/General (non-constructing)
-	MengskUnits/Factory = M
-	Rally = M
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: HotS Campaign/Terran/Structures/Starport/General
-	Banshee/Starport = A
-	CampaignVehicles = A
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: HotS Campaign/Terran/Structures/Starport/General (non-constructing)
-	Banshee/Starport = A
-	CampaignVehicles = A
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: HotS Campaign/Terran/Structures/Starport/General (non-constructing)
-	MengskUnits/Starport = M
-	Rally = M
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: LotV Multiplayer/Terran/Units/Ghost
-	GhostHoldFire/Ghost = B
-	WeaponsFree/Ghost = B
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: LotV Prologue/Protoss Story/Units/Zeratul (LotV Prologue)
-	MoveHoldPosition = V
-	PrologueVoidArmor/PrologueZeratul = V
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: LotV Prologue/Protoss/Units/Probe/General
-	GasCanisterGather/Probe = Period
-	GatherProt = Period
-
-[ERROR]: Conflict of hotkeys in race: Z commandcard: WoL Campaign/Zerg/Units/Larva/General
-	Scourge/Larva = A
-	SwarmHostMP/Larva = A
+[ERROR]: Conflict of hotkeys in race: Z commandcard: Data\HotkeyData Nova Campaign/Terran/Units/Hellion
+	MorphToHellion/Hellion = G
+	Stim = G
 
 ----------------------------
-Finished (conflict check) - ERRORs: 41 
+Finished (conflict check) - ERRORs: 4 
 ============================
