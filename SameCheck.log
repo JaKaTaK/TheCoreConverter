@@ -58,10 +58,6 @@ Start same check (log file: SameCheck.log)
 	Ultralisk/Larva = 6
 
 [ERROR]: Mismatched values in race: P
-	Aberration/Larva = N
-	Viper/Larva = J
-
-[ERROR]: Mismatched values in race: P
 	HydraliskFrenzy/Hydralisk = E
 	HydraliskFrenzy/HydraliskImpaler = P
 	HydraliskFrenzy/HydraliskLurker = P
@@ -80,7 +76,6 @@ Start same check (log file: SameCheck.log)
 	ViperConsumption/Viper = 4
 
 [ERROR]: Mismatched values in race: P
-	QueenBurstHeal/Queen = V
 	Transfusion/Queen = V,B
 	Transfusion/Queen2 = V
 
@@ -209,10 +204,6 @@ Start same check (log file: SameCheck.log)
 	Ultralisk/Larva = X
 
 [ERROR]: Mismatched values in race: T
-	Aberration/Larva = 7
-	Viper/Larva = T
-
-[ERROR]: Mismatched values in race: T
 	Impaler/HydraliskImpaler = 3
 	Lurker/HydraliskLurker = D
 
@@ -271,10 +262,6 @@ Start same check (log file: SameCheck.log)
 	ImpalerDen/HydraliskDen = C
 	Lair/Hatchery = C
 	LurkerDen/HydraliskDen = S
-
-[ERROR]: Mismatched values in race: R
-	Aberration/Larva = J
-	Viper/Larva = 6
 
 [ERROR]: Mismatched values in race: R
 	VoidSentryShieldRepair/Sentry = A
@@ -384,7 +371,6 @@ Start same check (log file: SameCheck.log)
 	Lurker/HydraliskLurker = G
 
 [ERROR]: Mismatched values in race: Z
-	QueenBurstHeal/Queen = G,B
 	Transfusion/Queen = G,H
 	Transfusion/Queen2 = G,B
 
@@ -413,5 +399,5 @@ Start same check (log file: SameCheck.log)
 	VoidZealotShadowCharge/ZealotShakuras = G
 
 ----------------------------
-Finished (same check) - ERRORs: 81 
+Finished (same check) - ERRORs: 78 
 ============================

@@ -55,7 +55,7 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: D,Z	 != D,T
 	R: F,6	    F,6
 	Z: S	    S
-	D:  	    T (default)
+	D: T	    T (default)
 
 [ERROR]: BuildCreepTumor/QueenCoop != BuildCreepTumor/Queen
 	P:  	 != 4
@@ -69,14 +69,14 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: 4,3	    4,3
 	R: S,2	    S,2
 	Z: Q,2	    Q,2
-	D:  	    D (default)
+	D: D	    D (default)
 
 [ERROR]: BuildScienceVessel/Starport != Raven/Starport
 	P: V	    V
 	T: F	 != 5
 	R: Q	    Q
 	Z: H	    H
-	D: R	    R (default)
+	D: R	    R, B (default)
 
 [ERROR]: BurrowHydraliskImpalerUp != BurrowUp
 	P: 4	    4
@@ -279,14 +279,14 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: 6	    6
 	R: A	    A
 	Z: H	    H
-	D: N	    N (default)
+	D: N, R	    N (default)
 
 [ERROR]: HeroNukeCalldown/Tosh != NukeCalldown/Ghost
 	P: J	 != X
 	T: 6	    6
 	R: A	    A
 	Z: B	 != H
-	D: N	    N (default)
+	D: N, R	    N (default)
 
 [ERROR]: HighTemplarHallucination/Nexus != HighTemplarHallucination/Sentry
 	P: V	    V
@@ -356,7 +356,7 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: 3	 != D
 	R: S	    S
 	Z: S	 != G
-	D: E	    E (default)
+	D: E, I	    E (default)
 
 [ERROR]: ImpalerBurrowUp != BurrowUp
 	P: 4	    4
@@ -370,7 +370,7 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: Z	 != T
 	R: C	    C
 	Z: Y	    Y
-	D:  	    L (default)
+	D: D	    L (default)
 
 [ERROR]: Interceptor/Selendis != Interceptor/Carrier
 	P: E	 != 4
@@ -596,13 +596,6 @@ Start wrong inherit (log file: WrongInheritance.log)
 	Z: Q,2	    Q,2
 	D:  	    F (default)
 
-[ERROR]: QueenBurstHeal/Queen != Transfusion/Queen
-	P: V	 != V,B
-	T: 3,Z	    3,Z
-	R: S,C	    S,C
-	Z: G,B	 != G,H
-	D: T	    T (default)
-
 [ERROR]: QueenCoop != Queen
 	P:  	 != V
 	T: F	    F
@@ -679,13 +672,6 @@ Start wrong inherit (log file: WrongInheritance.log)
 	R: S	    S
 	Z: S	    S
 	D: V	    V (default)
-
-[ERROR]: Scourge/Larva != SwarmHostMP/Larva
-	P: X	 != Y
-	T: 7	 != 6
-	R: T	    T
-	Z: A	    A
-	D: S	    A (default)
 
 [ERROR]: SpectreHoldFire/Spectre != GhostHoldFire/Ghost
 	P: N	 != Tab
@@ -841,26 +827,19 @@ Start wrong inherit (log file: WrongInheritance.log)
 	Z: V	 != B
 	D:  	    V (default)
 
-[ERROR]: VoidZealotShadowChargeStun/ZealotShakuras != Charge/Zealot
-	P: 4	 != E
-	T: 4	 != R
-	R: S	 != R
-	Z: Q	 != G
-	D: Z	    C (default)
-
 [ERROR]: Vortex/Artanis != TemporalField/MothershipCore
 	P: E	    E
 	T: D	 != R
 	R: F	 != R
 	Z: 2	 != G
-	D: V	    T,C (default)
+	D: V	    T, C (default)
 
 [ERROR]: Vortex/Mothership != TemporalField/MothershipCore
 	P: E	    E
 	T: D	 != R
 	R: F	 != R
 	Z: 2	 != G
-	D: V	    T,C (default)
+	D: V	    T, C (default)
 
 [ERROR]: WarpPrismHallucination/Nexus != WarpPrismHallucination/Sentry
 	P: 3	 != 4
@@ -902,8 +881,8 @@ Start wrong inherit (log file: WrongInheritance.log)
 	T: E	    E
 	R: R	    R
 	Z: W	 != G
-	D:  	    G (default)
+	D: G	    G (default)
 
 ----------------------------
-Finished (wrong inherit) - ERRORs: 129 
+Finished (wrong inherit) - ERRORs: 126 
 ============================
