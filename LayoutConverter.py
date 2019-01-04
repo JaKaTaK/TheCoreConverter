@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import configparser, os, shutil, uuid
 from enum import Enum
 
@@ -105,6 +106,12 @@ def left_filename_from_right(right_name):
     elif 'right' in right_name:
         return right_name.replace('right', 'left')
 
+def has_no_side(file_name):
+    for keyword in ['Left', 'Right', 'left', 'right']:
+        if keyword in file_name:
+            return False
+    return True
+
 def merge_file_into_file(file1, file2, new_name=None):
     hotkeyfile = ConfigParser()
     hotkeyfile.allow_no_value=True
@@ -126,6 +133,8 @@ def generate_right_profiles():
             tempfile = 'temp/' + str(uuid.uuid4())
             convert_hotkey_file(source_dir + file_name, tempfile, Conversion.LMtoRM)
             merge_file_into_file(tempfile, source_dir + right_version)
+        elif has_no_side(file_name):
+            shutil.copy(source_dir + file_name, 'temp/merged' + file_name)
 
 def unify_left_and_right_layouts():
     for file_name in os.listdir(source_dir):
@@ -152,11 +161,11 @@ def generate_localized_layouts():
             for s in layout_file.sections():
                 if not os.path.isdir('build/' + s): os.makedirs('build/' + s)
                 convert_hotkey_file('temp/' + file_name, 'build/' + s + '/' + new_name, Conversion.Layout, s)
-
-                temp_name = str(uuid.uuid4())
-                convert_hotkey_file('temp/' + file_name, 'temp/' + temp_name, Conversion.LMtoRM)
-                right_name = right_filename_from_left(new_name)
-                convert_hotkey_file('temp/' + temp_name, 'build/' + s + '/' + right_name, Conversion.Layout, s)
+                if not(has_no_side(file_name)):
+                    temp_name = str(uuid.uuid4())
+                    convert_hotkey_file('temp/' + file_name, 'temp/' + temp_name, Conversion.LMtoRM)
+                    right_name = right_filename_from_left(new_name)
+                    convert_hotkey_file('temp/' + temp_name, 'build/' + s + '/' + right_name, Conversion.Layout, s)
 
 generate_right_profiles()
 unify_left_and_right_layouts()
