@@ -50,3 +50,9 @@ class ConfigParser(configparser.ConfigParser):
     def write(self, file):
         return super().write(file, space_around_delimiters=False)
 
+
+def load_ini_file(inputfilename):
+	inifile = ConfigParser()
+	inifile.allow_no_value=True
+	inifile.read(inputfilename)
+	return inifile
