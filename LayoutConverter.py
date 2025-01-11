@@ -159,12 +159,13 @@ def generate_localized_layouts():
             new_name = file_name.replace('merged', '')
 
             for s in layout_file.sections():
+                local_name = new_name.replace('.SC2Hotkeys', '_' + s.replace(' ', '_') + '.SC2Hotkeys')
                 if not os.path.isdir('build/' + s): os.makedirs('build/' + s)
-                convert_hotkey_file('temp/' + file_name, 'build/' + s + '/' + new_name, Conversion.Layout, s)
+                convert_hotkey_file('temp/' + file_name, 'build/' + s + '/' + local_name, Conversion.Layout, s)
                 if not(has_no_side(file_name)):
                     temp_name = str(uuid.uuid4())
                     convert_hotkey_file('temp/' + file_name, 'temp/' + temp_name, Conversion.LMtoRM)
-                    right_name = right_filename_from_left(new_name)
+                    right_name = right_filename_from_left(local_name)
                     convert_hotkey_file('temp/' + temp_name, 'build/' + s + '/' + right_name, Conversion.Layout, s)
 
 generate_right_profiles()
